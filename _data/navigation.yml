@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  # - title: "Portfolio"
-  # url: /portfolio/
+  - title: "Research group"
+    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research group"
-    url: /researchgroup/
+  # - title: "Research group"
+  #   url: /Research group/
     
   # - title: "Guide"
   # url: /markdown/
