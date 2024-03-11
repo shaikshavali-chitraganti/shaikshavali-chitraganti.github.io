@@ -1,12 +1,32 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
+# Publications
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Journal Articles
+
+1. **Author 1**, **Author 2**, and **Author 3**. (Year). *Title of the Article.* Journal Name, Volume(Issue), Page Numbers. [Link to PDF or DOI]
+
+2. **Author 4**, **Author 5**, et al. (Year). *Title of the Article.* Journal Name, Volume(Issue), Page Numbers. [Link to PDF or DOI]
+
+## Conference Papers
+
+1. **Author 6**, **Author 7**, and **Author 8**. (Year). *Title of the Paper.* In: Proceedings of the Conference Name, Pages. [Link to PDF or DOI]
+
+2. **Author 9**, **Author 10**, et al. (Year). *Title of the Paper.* In: Proceedings of the Conference Name, Pages. [Link to PDF or DOI]
+
+## Book Chapters
+
+1. **Author 11**, **Author 12**, and **Author 13**. (Year). *Title of the Chapter.* In: Book Title, Publisher, Page Numbers. [Link to PDF or DOI]
+
+2. **Author 14**, **Author 15**, et al. (Year). *Title of the Chapter.* In: Book Title, Publisher, Page Numbers. [Link to PDF or DOI]
+
+## Technical Reports
+
+1. **Author 16**, **Author 17**, and **Author 18**. (Year). *Title of the Report.* Organization/Institution. [Link to PDF or DOI]
+
+2. **Author 19**, **Author 20**, et al. (Year). *Title of the Report.* Organization/Institution. [Link to PDF or DOI]
+
+## Theses
+
+1. **Author 21**. (Year). *Title of the Thesis.* Degree, University. [Link to PDF or DOI]
+
+2. **Author 22**. (Year). *Title of the Thesis.* Degree, University. [Link to PDF or DOI]
+
