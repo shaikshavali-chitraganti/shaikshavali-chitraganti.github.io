@@ -213,7 +213,7 @@ collections:
   researchgroup:
     output: true
     permalink: /:collection/:path/
-  education:
+  biography:
     output: true
     permalink: /:collection/:path/
   experience:
@@ -288,10 +288,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-    # _education
+    # _biography
   - scope:
       path: ""
-      type: education
+      type: biography
     values:
       layout: single
       author_profile: true
