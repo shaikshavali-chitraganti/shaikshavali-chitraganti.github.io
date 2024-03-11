@@ -213,6 +213,9 @@ collections:
   researchgroup:
     output: true
     permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -274,6 +277,15 @@ defaults:
   - scope:
       path: ""
       type: researchgroup
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _education
+  - scope:
+      path: ""
+      type: education
     values:
       layout: single
       author_profile: true
