@@ -6,14 +6,17 @@ main:
   - title: "Experience"
     url: /experience/
 
+  - title: "Teaching"
+    url: /teaching/ 
+
+  - title: "Research"
+    url: /experience/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /talks/     
     
   - title: "Research group"
     url: /researchgroup/
