@@ -267,6 +267,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _researchgroup
+  - scope:
+      path: ""
+      type: researchgroup
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
