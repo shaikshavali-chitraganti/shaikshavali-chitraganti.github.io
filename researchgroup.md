@@ -2,6 +2,7 @@
 layout: page
 title: Research Group
 permalink: /researchgroup/
+author_profile: true
 ---
 
 ## About Us
