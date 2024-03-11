@@ -216,6 +216,9 @@ collections:
   education:
     output: true
     permalink: /:collection/:path/
+  experience:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -286,6 +289,15 @@ defaults:
   - scope:
       path: ""
       type: education
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _experience
+  - scope:
+      path: ""
+      type: experience
     values:
       layout: single
       author_profile: true
