@@ -3,8 +3,8 @@ main:
   - title: "Biography"
     url: /biography/
 
-  - title: "Experience"
-    url: /experience/
+  # - title: "Experience"
+  #   url: /experience/
 
   - title: "Teaching"
     url: /teaching/ 
@@ -12,20 +12,20 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   - title: "Talks"
     url: /talks/     
     
-  - title: "Research group"
-    url: /researchgroup/
+  - title: "Tutorials"
+    url: /tutorials/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   # - title: "Research group"
   #   url: /Research group/

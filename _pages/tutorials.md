@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Research Group
-permalink: /researchgroup/
+title: Tutorials
+permalink: /tutorials/
 author_profile: true
 ---
 
