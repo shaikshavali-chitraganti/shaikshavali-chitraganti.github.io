@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Research Group
 permalink: /researchgroup/
 author_profile: true
