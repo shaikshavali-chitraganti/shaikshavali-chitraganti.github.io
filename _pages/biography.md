@@ -7,7 +7,7 @@ author_profile: true
 
 ## About Us
 
-This is where you can provide an overview of your research group, its goals, objectives, and the members involved.
+This is where you can provide an overview of your research group, its goals, objectives, and the members involved. This is where you can provide an overview of your research group, its goals, objectives, and the members involved
 
 ## Current Members
 
