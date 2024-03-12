@@ -21,9 +21,9 @@ repository               : "shaikshavali-chitraganti/shaikshavali-chitraganti.gi
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
-  name             : #"Shaikshavali Chitraganti"
-  pronouns         : # example: "she/her"  
+  #avatar           : #"profile.png"
+  #name             : #"Shaikshavali Chitraganti"
+  #pronouns         : # example: "she/her"  
   bio              : Assisant professor, IIT Palakkad
   location         : #"Earth"
   employer         : #"Red Brick University"
