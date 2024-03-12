@@ -10,7 +10,7 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-
+  width: 100%; /* Add this line to make the width 100% */
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
