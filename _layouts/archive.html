@@ -13,11 +13,14 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
+  {% include sidebar.html %}
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    {{ content }}
+    <div class="page__content" style="width: 100%;">
+      {{ content }}
+    </div>
   </div>
 </div>
