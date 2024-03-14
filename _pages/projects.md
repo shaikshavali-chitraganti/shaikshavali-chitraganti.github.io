@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Experience
-permalink: /experience/
+title: Projects
+permalink: /projects/
 ---
 
 ## About Us

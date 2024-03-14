@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: single
 title: Tutorials
 permalink: /tutorials/
-author_profile: true
 ---
 
 ## About Us
