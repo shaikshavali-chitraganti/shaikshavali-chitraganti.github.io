@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="images/profile.png" alt="Profile" width="300" height="300">
+    <img src="images/profile.png" alt="Profile" width="300" height="200">
   </div>
   <div style="margin-left: 20px; line-height: 0.2;">
     <p>Shaikshavali Chitraganti</p>
