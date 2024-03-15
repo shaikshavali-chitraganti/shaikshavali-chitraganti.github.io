@@ -11,7 +11,7 @@ redirect_from:
   <div>
     <img src="images/profile.png" alt="Profile" width="300" height="300">
   </div>
-  <div style="margin-left: 20px; line-height: 1.2;">
+  <div style="margin-left: 20px; line-height: 0.8;">
     <p>Shaikshavali Chitraganti</p>
     <p>Assistant Professor</p>
     <p>Department of Electrical Engineering</p>
