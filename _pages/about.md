@@ -12,8 +12,9 @@ redirect_from:
     <img src="images/profile.png" alt="Profile" width="300" height="300">
   </div>
   <div style="margin-left: 20px;">
-    <p>Your text goes here...</p>
-    <p>More text...</p>
+    <p>Shaikshavali Chitraganti</p>
+    <p>Assistant Professor, Department of Electrical Engineering</p>
+    <p>Indian Institute of Technology Palakkad</p>
   </div>
 </div>
 
