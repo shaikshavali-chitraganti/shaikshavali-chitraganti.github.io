@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 permalink: "/research"
 ---
-
+<!--
 My research sits at the intersection of convex and combinatorial optimization, with applications to robotics, motion planning, and optimal control.
 Specifically, I study optimal decision making in circumstances where discrete and continuous choices have to be made simultaneously.
 I work on these problems on a mathematical and numerical level: I develop modeling frameworks, transcriptions as numerical optimizations, and solution algorithms.
@@ -20,4 +20,4 @@ Through a single convex program, we can now design [globally optimal trajectorie
 
 [Our laboratory](http://groups.csail.mit.edu/locomotion/) is mainly focused on robotics.
 We use cutting-edge numerical optimization to solve manipulation and locomotion problems.
-Never before has robotics posed such challenging and stimulating issues: our ambitious goal is to solve them using rigorous mathematics.
+Never before has robotics posed such challenging and stimulating issues: our ambitious goal is to solve them using rigorous mathematics. -->

@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 permalink: "/publications"
 ---
-
+<!--
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
 
 **Towards Tight Convex Relaxations for Contact-Rich Manipulation**  
@@ -84,4 +84,4 @@ IEEE American Control Conference (ACC). 2017.
 **A Two-Stage Trajectory Optimization Strategy for Articulated Bodies With Unscheduled Contact Sequences**  
  Tobia Marcucci, Marco Gabiccini, and Alessio Artoni.  
  IEEE Robotics and Automation Letters (RAL). 2017.  
-[[pdf]](https://ieeexplore.ieee.org/document/7442110)
+[[pdf]](https://ieeexplore.ieee.org/document/7442110)-->

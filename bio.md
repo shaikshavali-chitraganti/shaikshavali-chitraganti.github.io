@@ -4,7 +4,7 @@ title: "Bio"
 permalink: "/bio"
 ---
 
-<p align="center">
+<!--<p align="center">
 <img src="me2.jpg"  width="200px"/>
 </p>
 
