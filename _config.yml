@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tobia Marcucci
-email: tobiam AT mit DOT edu
+title: Shaikshavali Chitraganti
+email: shaik@iitpkd.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Tobia Marcucci, PhD student at MIT.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  TobiaMarcucci
+github_username:   shaikshavali-chitraganti
 
 # Build settings
 theme: minima
