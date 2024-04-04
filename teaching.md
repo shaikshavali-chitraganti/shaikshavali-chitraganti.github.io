@@ -5,7 +5,7 @@ permalink: "/teaching"
 ---
 
 ## Courses
-----------------
+<hr style="margin-top: 0.1em; margin-bottom: 1em;">
 
 EE3060 Control Engineering - 2020, 2021, 2022, 2023, 2024
 
