@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Projects"
-permalink: "/projects"
+title: "Misc"
+permalink: "/misc"
 ---
 
 <p style="text-align: justify;">
