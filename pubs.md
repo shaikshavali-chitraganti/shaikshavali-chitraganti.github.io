@@ -6,8 +6,7 @@ permalink: "/publications"
 ## Journals
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-[10] A. Rajagopal, *S. Chitraganti*, "State estimation and control for networked control systems in the presence of correlated packet drops", International Journal of System Science, v54:11, p.2352-2365. 2023.
-[[link]](https://www.tandfonline.com/doi/full/10.1080/00207721.2023.2230225){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/372145498_State_estimation_and_control_for_networked_control_systems_in_the_presence_of_correlated_packet_drops){:target="_blank"}
+[10] A. Rajagopal, *S. Chitraganti*, "State estimation and control for networked control systems in the presence of correlated packet drops", International Journal of System Science, v54:11, p.2352-2365. 2023. [[link]](https://www.tandfonline.com/doi/full/10.1080/00207721.2023.2230225){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/372145498_State_estimation_and_control_for_networked_control_systems_in_the_presence_of_correlated_packet_drops){:target="_blank"}
 
 
 [9] S. Challagundla, *S. Chitraganti*, P. Wali, "An efficient event-based state estimator for linear discrete-time system with multiplicative measurement noise", IEEE Control System Letters, v5:4, p.1315-1320, 2021.
