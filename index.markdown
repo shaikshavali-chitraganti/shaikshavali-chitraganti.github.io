@@ -15,5 +15,5 @@ I am an assistant professor at the Department of Electrical Engineering at [IIT 
 </p> -->
 
 <p style="text-align: justify;">
-I am an assistant professor at the Department of Electrical Engineering at <span style="color: blue; cursor: pointer;" onclick="window.location.href='https://iitpkd.ac.in/'">IIT Palakkad</span> since June 2019. My primary work is in the areas of networked control systems and reinforcement learning based control methods.
+I am an assistant professor at the Department of Electrical Engineering at <a href="https://iitpkd.ac.in/" target="_blank" style="color: blue; cursor: pointer; text-decoration: none;">IIT Palakkad</a> since June 2019. My primary work is in the areas of networked control systems and reinforcement learning based control methods.
 </p>
