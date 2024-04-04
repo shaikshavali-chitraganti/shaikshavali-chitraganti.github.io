@@ -9,6 +9,11 @@ layout: page
 <img src="me.jpg" alt="drawing" width="350px"/>
 </p>
 
+<!--
 <p style="text-align: justify;">
 I am an assistant professor at the Department of Electrical Engineering at [IIT Palakkad](https://iitpkd.ac.in/) since June 2019. My primary work is in the areas of networked control systems and reinforcement learning based control methods.
+</p> -->
+
+<p style="text-align: justify;">
+I am an assistant professor at the Department of Electrical Engineering at <span style="color: blue; cursor: pointer;" onclick="window.location.href='https://iitpkd.ac.in/'">IIT Palakkad</span> since June 2019. My primary work is in the areas of networked control systems and reinforcement learning based control methods.
 </p>
