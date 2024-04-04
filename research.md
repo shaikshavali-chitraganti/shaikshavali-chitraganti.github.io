@@ -8,8 +8,23 @@ permalink: "/research"
 Our resarch in Network control systems sits at the intersection of control and communication engineering. The core of this research is how to address the various control tasks when the states and/or actions trasmitted over wireless networks, which may not be perfect. The work involved theoritical understanding of the control methods in tandem with communication aspects, experimental investigation of the same with classical control setups such as rotory servo, dual rotor aero etc, and communication setups such as Software defined radios (SDRs), Long range (LoRa) modules. The simulation platforms we use are MATLAB, LabView and Python for this work.
 </p>
 
+
 <p style="text-align: justify;">
 The other research is at the intersection of optimal control and reinforcement learning, which have a lot of similar formulations. The main focuse of this research is to address the objectives of various optimal control formulations when the dynamic model is not perfectly available. The work includes theoretical investigations along with experimental validations. The simulation platforms we use are MATLAB and Python.
+</p>
+
+<b>Projects</b>
+
+<p style="text-align: justify;">
+"Energy Efficient Distributed Estimation and Control of Networked Robots and its implementation Architectures", IIT Palakkad Technology IHub Foundation, 2021 - 2026, Role: PI
+</p>
+
+<p style="text-align: justify;">
+"Intelligent Offshore Mechatronics Systems (INMOST)", Norwegian Research Council (RCN) - INTPART, Partnering institutions: NTNU, Norway, NORSE, Norway, NIT Goa, IIT Indore, IIT Tirupati and IIT Palakkad, 2020 - 2023, Role: PI from IIT Palakkad
+</p>
+
+<p style="text-align: justify;">
+"Feedback control of stochastic hybrid systems with state-dependent noise", SERB - MATRICS, 2019-2022, Role: PI
 </p>
 
 <!--The questions at the core of my research are also central in machine learning and AI: foundation and large-language models have recently unlocked unprecedented opportunities for providing our robots with common sense and long-term reasoning, but have also highlighted the lack of optimization methods that can reliably and automatically generate large amounts of high-quality training data.
