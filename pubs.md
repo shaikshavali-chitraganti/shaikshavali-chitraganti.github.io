@@ -24,7 +24,7 @@ permalink: "/publications"
 
 [2] *S. Chitraganti*, S. Aberkane, C. Aubrun, ``Robust stabilization of a class of state-dependent jump linear systems", Nonlinear Analysis: Hybrid Systems, Elsevier, v18, p.48-59, 2015.
 
-[1] *S. Chitraganti*, S. Aberkane, C. Aubrun, G. Valencia-Palomo, V. Dragan, ``On control of discrete-time state-dependent jump linear systems with probabilistic constraints: a receding horizon approach", Systems \& Control Letters, Elsevier, v74, p.81-89, 2014. 
+[1] *S. Chitraganti*, S. Aberkane, C. Aubrun, G. Valencia-Palomo, V. Dragan, ``On control of discrete-time state-dependent jump linear systems with probabilistic constraints: a receding horizon approach", Systems & Control Letters, Elsevier, v74, p.81-89, 2014. 
 
 ## Conferences
 <hr style="margin-top: -1em; margin-bottom: 1em;">
