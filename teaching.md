@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: "/teaching"
 ---
 
-## Courses
+## C<small>Courses</small>
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
 <span style="display: flex; justify-content: space-between;">
