@@ -29,36 +29,37 @@ permalink: "/publications"
 ## Conferences
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-[16] A. Mullachery, * S. Chitraganti*, "Off-policy reinforcement learning for optimal control of a two wheeled self balancing robot", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 383-388, Decemer, 2023.
+[16] A. Mullachery, *S. Chitraganti*, "Off-policy reinforcement learning for optimal control of a two wheeled self balancing robot", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 383-388, Decemer, 2023.
 
- [15] A. Rajagopal, * S. Chitraganti*, "Impact of fading channel imposed correlated packet drops on state estimation in a networked control system: An experimental study based on SDRs", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 144-149, Decemer, 2023. (\textit{Best student paper - first runner-up award})
+ [15] A. Rajagopal, *S. Chitraganti*, "Impact of fading channel imposed correlated packet drops on state estimation in a networked control system: An experimental study based on SDRs", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 144-149, Decemer, 2023. (\textit{Best student paper - first runner-up award})
 
- [14] A. Rajagopal, * S. Chitraganti*, "State estimation with correlated packet drops: An experimental evaluation with a mobile robot", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 156-161, Decemer, 2023.
+ [14] A. Rajagopal, *S. Chitraganti*, "State estimation with correlated packet drops: An experimental evaluation with a mobile robot", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 156-161, Decemer, 2023.
     
-[13] S. Challagundla, * S. Chitraganti*, P. Wali, "Event-Based Distributed Filtering with Multiplicative Measurement Noise and Correlated Additive Noises", Proc. of 13th Asian Control Conference, Jeju Island, South Korea, pp 920-925, May, 2022.
+[13] S. Challagundla, *S. Chitraganti*, P. Wali, "Event-Based Distributed Filtering with Multiplicative Measurement Noise and Correlated Additive Noises", Proc. of 13th Asian Control Conference, Jeju Island, South Korea, pp 920-925, May, 2022.
 	     
-[12] * S. Chitraganti*, M. A. Sid, S. Aberkane, ``Event Triggered Fault Detection in Linear Systems Using Generalized Likelihood Ratio Test", in 6th IFAC International Conference on Advances in Control and Optimization of Dynamical Systems, Hyderabad, India, February, 2018. (IFAC-PapersOnLine Volume 51, Issue 1, 2018, Pages 444-449)
+[12] *S. Chitraganti*, M. A. Sid, S. Aberkane, ``Event Triggered Fault Detection in Linear Systems Using Generalized Likelihood Ratio Test", in 6th IFAC International Conference on Advances in Control and Optimization of Dynamical Systems, Hyderabad, India, February, 2018. (IFAC-PapersOnLine Volume 51, Issue 1, 2018, Pages 444-449)
 	      
-[11] * S. Chitraganti*, M. Darwish, ``Nonlinear event-based state estimation using sequential Monte Carlo approach", Proc. of 56th IEEE Conference on Decision and Control, Melbourne, Australia, pp 2170-2175, December, 2017.
+[11] *S. Chitraganti*, M. Darwish, ``Nonlinear event-based state estimation using sequential Monte Carlo approach", Proc. of 56th IEEE Conference on Decision and Control, Melbourne, Australia, pp 2170-2175, December, 2017.
 	      
-[10] * S. Chitraganti*, R. Toth, N. Meskin, J. Mohammadpour, ``Stochastic model predictive control for LPV systems", Proc. of 33rd Americal Control Conference, Washington, USA, pp 5654-5659, May, 2017.
+[10] *S. Chitraganti*, R. Toth, N. Meskin, J. Mohammadpour, ``Stochastic model predictive control for LPV systems", Proc. of 33rd Americal Control Conference, Washington, USA, pp 5654-5659, May, 2017.
 	     
-[9] M. A. Sid and * S. Chitraganti*, ``Nonlinear event-based state estimation using particle filtering approach", Proc. of 8th International Conference on Modelling, Identification and Control, Algiers, Algeria, pp 874-879, November, 2016.
+[9] M. A. Sid and *S. Chitraganti*, ``Nonlinear event-based state estimation using particle filtering approach", Proc. of 8th International Conference on Modelling, Identification and Control, Algiers, Algeria, pp 874-879, November, 2016.
 	      
-[8] * S. Chitraganti*, S. Aberkane, C. Aubrun, T. Darure, ``A receding horizon control of Markov jump linear systems with imperfect state information and probabilistic state constraints", Proc. of 3rd IEEE International conference on control and Fault-tolerant systems, Barcelona, Spain, pp 611-617, September, 2016.
+[8] *S. Chitraganti*, S. Aberkane, C. Aubrun, T. Darure, ``A receding horizon control of Markov jump linear systems with imperfect state information and probabilistic state constraints", Proc. of 3rd IEEE International conference on control and Fault-tolerant systems, Barcelona, Spain, pp 611-617, September, 2016.
 	      
-[7] * S. Chitraganti*, S. Aberkane, C. Aubrun, ``Stochastic stabilization of a discrete-time inhomogeneous Markov jump linear system with interval transition probability matrix", Proc. of 3rd IEEE International conference on control and Fault-tolerant systems, Barcelona, Spain, pp 838-842, September, 2016.
-[6] * S. Chitraganti*, S. Aberkane, C. Aubrun, ``State-feedback H infinity stabilization of state-dependent jump linear systems", Proc. of 3rd IEEE International conference on control and Fault-tolerant systems, Barcelona, Spain, pp 698-703, September, 2016.
+[7] *S. Chitraganti*, S. Aberkane, C. Aubrun, ``Stochastic stabilization of a discrete-time inhomogeneous Markov jump linear system with interval transition probability matrix", Proc. of 3rd IEEE International conference on control and Fault-tolerant systems, Barcelona, Spain, pp 838-842, September, 2016.
+
+[6] *S. Chitraganti*, S. Aberkane, C. Aubrun, ``State-feedback H infinity stabilization of state-dependent jump linear systems", Proc. of 3rd IEEE International conference on control and Fault-tolerant systems, Barcelona, Spain, pp 698-703, September, 2016.
 	      
-[5] * S. Chitraganti*, S. Aberkane, C. Aubrun, ``A novel mathematical setup for fault tolerant control systems with state-dependent failure process", Proc. of 17th European Workshop on Advanced Control and Diagnosis, Berlin, Germany, Vol. 570. No. 8, pp 1-6, December 2014.
+[5] *S. Chitraganti*, S. Aberkane, C. Aubrun, ``A novel mathematical setup for fault tolerant control systems with state-dependent failure process", Proc. of 17th European Workshop on Advanced Control and Diagnosis, Berlin, Germany, Vol. 570. No. 8, pp 1-6, December 2014.
 	      
-[4] * S. Chitraganti*, S. Aberkane, C. Aubrun, ``Stochastic stability and stabilization of state-dependent jump linear systems", Proc. of 2nd IEEE International conference on control and Fault-tolerant systems, Nice, France, pp 438-443, October, 2013.
+[4] *S. Chitraganti*, S. Aberkane, C. Aubrun, ``Stochastic stability and stabilization of state-dependent jump linear systems", Proc. of 2nd IEEE International conference on control and Fault-tolerant systems, Nice, France, pp 438-443, October, 2013.
 	      
-[3] * S. Chitraganti*, S. Aberkane, C. Aubrun, ``Mean square stability of non-homogeneous Markov jump linear systems using interval analysis", Proc. of 12th European Control Conference, Zurich, Switzerland, pp 3724-3729, July, 2013.
+[3] *S. Chitraganti*, S. Aberkane, C. Aubrun, ``Mean square stability of non-homogeneous Markov jump linear systems using interval analysis", Proc. of 12th European Control Conference, Zurich, Switzerland, pp 3724-3729, July, 2013.
 	      
-[2] * S. Chitraganti*, S. Aberkane, C. Aubrun, ``Statistical properties of exponential weighted moving average algorithm for change detection", Proc. of 51st IEEE Conference on Decision and Control, Maui, Hawaii, USA, pp 574-578, December, 2012.
+[2] *S. Chitraganti*, S. Aberkane, C. Aubrun, ``Statistical properties of exponential weighted moving average algorithm for change detection", Proc. of 51st IEEE Conference on Decision and Control, Maui, Hawaii, USA, pp 574-578, December, 2012.
 	      
-[1] D. Chakraborty and * S. Chitraganti*, ``An approximate solution to the norm optimal control problem", Proc. of 21st IEEE International Conference on Systems, Man, and Cybernetics, San Antonio, Texas, USA, pp 4490-4495, October, 2009.
+[1] D. Chakraborty and *S. Chitraganti*, ``An approximate solution to the norm optimal control problem", Proc. of 21st IEEE International Conference on Systems, Man, and Cybernetics, San Antonio, Texas, USA, pp 4490-4495, October, 2009.
 
 
 <!--
