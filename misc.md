@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Misc"
+title: "Miscellaneous"
 permalink: "/misc"
 ---
 
-**Invited Talks:**
+**Invited Talks**
+<hr style="margin-top: -1em; margin-bottom: 1em;">
 
 [6] "Inverse reinforcement learning" for Indo-Norway Workshop on Sensing, Communication and Control Systems for Industrial Automation Applications (IN-SCOCOS), IIT Palakkad, Feburary 2024
 
@@ -18,7 +19,8 @@ permalink: "/misc"
 
 [1] "Event triggered state estimation with multiplicative noise: an optimization perspective" for TEQIP workshop on Data science and optimization in System and Control, IIT Guwahati, September, 2019
 
-**Workshop or Conference activity:**
+**Workshop or Conference activity**
+<hr style="margin-top: -1em; margin-bottom: 1em;">
 
 [3] Coordinator of an Indo-Norway Workshop on "Sensing, Communication and Control Systems for Industrial Automation Applications (IN-SCOCOS)" at IIT Palakkad, Feburary 2024
 
