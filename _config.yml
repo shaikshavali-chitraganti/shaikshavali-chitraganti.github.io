@@ -34,8 +34,8 @@ plugins:
 
 header_pages:
   - research.md
-  - teaching.md
   - pubs.md
+  - teaching.md
   - bio.md
   # - misc.md
   - contacts.md
