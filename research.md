@@ -13,7 +13,7 @@ Our resarch in Network control systems sits at the intersection of control and c
 The other research is at the intersection of optimal control and reinforcement learning, which have a lot of similar formulations. The main focuse of this research is to address the objectives of various optimal control formulations when the dynamic model is not perfectly available. The work includes theoretical investigations along with experimental validations. The simulation platforms we use are MATLAB and Python.
 </p>
 
-<div style="padding-bottom: 20px;"></div>
+<div style="padding-bottom: 40px;"></div>
 
 <span style="font-size: larger;">Projects</span>
 <hr style="margin-top: -1em; margin-bottom: 1em;">
