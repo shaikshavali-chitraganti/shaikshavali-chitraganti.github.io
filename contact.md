@@ -3,8 +3,8 @@ layout: page
 title: "Contact"
 permalink: "/contact"
 ---
-Dr. Shaikshavali Chitraganti,
-Department of Electrical Engineering,
+Dr. Shaikshavali Chitraganti,<br>
+Department of Electrical Engineering,<br>
 Indian Insitute of Technology (IIT) Palakkad,
 Kanjikode,
 Kerala - 678623, 
