@@ -16,16 +16,16 @@ permalink: "/publications"
 
 [6] S. Challagundla, *S. Chitraganti*, S. Aberkane, ``Event based state estimation under the presence of multiplicative measurement noise", IEEE Control System Letters, v3:3, p.625-630, 2019.
 
-[5] *S. Chitraganti*, S. Aberkane, ``Stochastic H-infinity control of state dependent jump linear systems with state dependent noise", IET Control Theory \& Applications, v13:9, p.1291-1297, 2019.
+[5] *S. Chitraganti*, S. Aberkane, ``Stochastic H-infinity control of state dependent jump linear systems with state dependent noise", IET Control Theory & Applications, v13:9, p.1291-1297, 2019.
 
-[4] *S. Chitraganti*, R. Toth, N. Meskin, J. Mohammadpour, ``Stochastic model predictive tracking of piecewise constant references for LPV systems", IET Control Theory \& Applications, v11, p.1862-1872, 2017.
+[4] *S. Chitraganti*, R. Toth, N. Meskin, J. Mohammadpour, ``Stochastic model predictive tracking of piecewise constant references for LPV systems", IET Control Theory & Applications, v11, p.1862-1872, 2017.
 
 [3] M. A. Sid, *S. Chitraganti*, K. Chabir, ``Medium access scheduling for input reconstruction under deception attacks", Journal of the Franklin Institute, Elsevier, v354:9, p.3678-3689, 2017.
 
 [2] *S. Chitraganti*, S. Aberkane, C. Aubrun, ``Robust stabilization of a class of state-dependent jump linear systems", Nonlinear Analysis: Hybrid Systems, Elsevier, v18, p.48-59, 2015.
 
 [1] *S. Chitraganti*, S. Aberkane, C. Aubrun, G. Valencia-Palomo, V. Dragan, ``On control of discrete-time state-dependent jump linear systems with probabilistic constraints: a receding horizon approach", Systems & Control Letters, Elsevier, v74, p.81-89, 2014.
-[[link](https://www.sciencedirect.com/science/article/pii/S0167691114002308) {target="_blank"}] [[pdf](https://arxiv.org/abs/1406.7629) {target="_blank"}]
+[[link](https://www.sciencedirect.com/science/article/pii/S0167691114002308)]{target="_blank"} [[pdf](https://arxiv.org/abs/1406.7629)]{target="_blank"}
 
 ## Conferences
 <hr style="margin-top: -1em; margin-bottom: 1em;">
