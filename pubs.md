@@ -6,6 +6,7 @@ permalink: "/publications"
 ## Journals
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
+<p style="text-align: justify;">
 [10] A. Rajagopal, *S. Chitraganti*, "State estimation and control for networked control systems in the presence of correlated packet drops", International Journal of System Science, v54:11, p.2352-2365. 2023. [[link]](https://www.tandfonline.com/doi/full/10.1080/00207721.2023.2230225){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/372145498_State_estimation_and_control_for_networked_control_systems_in_the_presence_of_correlated_packet_drops){:target="_blank"}
 
 
@@ -35,10 +36,12 @@ permalink: "/publications"
 
 [1] *S. Chitraganti*, S. Aberkane, C. Aubrun, G. Valencia-Palomo, V. Dragan, "On control of discrete-time state-dependent jump linear systems with probabilistic constraints: a receding horizon approach", Systems & Control Letters, Elsevier, v74, p.81-89, 2014.
 [[link]](https://www.sciencedirect.com/science/article/pii/S0167691114002308){:target="_blank"} [[pdf]](https://arxiv.org/abs/1406.7629){:target="_blank"}
+</p>
 
 ## Conferences
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
+<p style="text-align: justify;">
 [16] A. Mullachery, *S. Chitraganti*, "Off-policy reinforcement learning for optimal control of a two wheeled self balancing robot", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 383-388, Decemer, 2023.
 
  [15] A. Rajagopal, *S. Chitraganti*, "Impact of fading channel imposed correlated packet drops on state estimation in a networked control system: An experimental study based on SDRs", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 144-149, Decemer, 2023. (\textit{Best student paper - first runner-up award})
@@ -70,7 +73,7 @@ permalink: "/publications"
 [2] *S. Chitraganti*, S. Aberkane, C. Aubrun, "Statistical properties of exponential weighted moving average algorithm for change detection", Proc. of 51st IEEE Conference on Decision and Control, Maui, Hawaii, USA, pp 574-578, December, 2012.
 	      
 [1] D. Chakraborty and *S. Chitraganti*, "An approximate solution to the norm optimal control problem", Proc. of 21st IEEE International Conference on Systems, Man, and Cybernetics, San Antonio, Texas, USA, pp 4490-4495, October, 2009.
-
+</p>
 
 <!--
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
