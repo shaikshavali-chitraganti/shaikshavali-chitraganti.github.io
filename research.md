@@ -3,12 +3,12 @@ layout: page
 title: "Research"
 permalink: "/research"
 ---
-<!--
-My research sits at the intersection of convex and combinatorial optimization, with applications to robotics, motion planning, and optimal control.
-Specifically, I study optimal decision making in circumstances where discrete and continuous choices have to be made simultaneously.
-I work on these problems on a mathematical and numerical level: I develop modeling frameworks, transcriptions as numerical optimizations, and solution algorithms.
 
-The questions at the core of my research are also central in machine learning and AI: foundation and large-language models have recently unlocked unprecedented opportunities for providing our robots with common sense and long-term reasoning, but have also highlighted the lack of optimization methods that can reliably and automatically generate large amounts of high-quality training data.
+Our resarch in Network control systems sits at the intersection of control and communication engineering. The core of this research is how to address the various control tasks when the states and/or actions trasmitted over wireless networks, which may not be perfect. The work involved theoritical understanding of the control methods in tandem with communication aspects, experimental investigation of the same with classical control setups such as rotory servo, dual rotor aero etc, and communication setups such as Software defined radios (SDRs), Long range (LoRa) modules. The simulation platforms we use are MATLAB, LabView, Python for this work.
+
+On the other hand, we also explore the intersection of optimal control and reinforcement learning
+
+<!--The questions at the core of my research are also central in machine learning and AI: foundation and large-language models have recently unlocked unprecedented opportunities for providing our robots with common sense and long-term reasoning, but have also highlighted the lack of optimization methods that can reliably and automatically generate large amounts of high-quality training data.
 
 The main outcome of my PhD has been [Graphs of Convex Sets (GCS)](https://arxiv.org/pdf/2101.11565): a modelling and decision-making framework that efficiently combines graph search and convex optimization.
 Formally, a GCS is a directed graph where the position of each vertex is a continuous variable constrained in a convex set, and the length of an edge is a convex function of the position of its endpoints.
