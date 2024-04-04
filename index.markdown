@@ -9,5 +9,5 @@ layout: page
 <img src="me.jpg" alt="drawing" width="350px"/>
 </p>
 
-I am an assistant professor at the Department of Electrical Engineering at [IIT Palakkad](https://iitpkd.ac.in/) since June 2019. I work in the areas of networked control systems and reinforcement learning based control methods.
+I am an assistant professor at the Department of Electrical Engineering at [IIT Palakkad](https://iitpkd.ac.in/) since June 2019. My primary work in the areas of networked control systems and reinforcement learning based control methods.
 
