@@ -7,7 +7,9 @@ permalink: "/teaching"
 ## Courses
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
+<span style="display: flex; justify-content: space-between;">
 EE 3060 Control Engineering <span style="flex-grow: 1;"></span>  Jan - May 2020, 2021, 2022, 2023, 2024
+</span>
 
 EE 2030 Electrical and Magnetic Circuits <span style="flex-grow: 1;"></span>  Aug - Dec 2019, 2020, 2021
 
