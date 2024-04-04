@@ -14,10 +14,12 @@ Anna Varghis <span style="flex-grow: 1;"></span>  Jan 2024 - present
 <span style="display: flex; justify-content: space-between;">
 Athira Mullachery <span style="flex-grow: 1;"></span>  Jan 2022 - present
 </span>
+*Area*: Model free optimal control
 
 <span style="display: flex; justify-content: space-between;">
 Ayyappadas Rajagopal <span style="flex-grow: 1;"></span>  Jan 2020 - present
 </span>
+*Area*: Estimation and control over wireless networks
 
 <span style="display: flex; justify-content: space-between;">
 Swapna Challagundla <span style="flex-grow: 1;"></span>  Jan 2018 - October 2022
