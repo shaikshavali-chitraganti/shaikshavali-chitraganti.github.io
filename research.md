@@ -13,7 +13,7 @@ Our resarch in Network control systems sits at the intersection of control and c
 The other research is at the intersection of optimal control and reinforcement learning, which have a lot of similar formulations. The main focuse of this research is to address the objectives of various optimal control formulations when the dynamic model is not perfectly available. The work includes theoretical investigations along with experimental validations. The simulation platforms we use are MATLAB and Python.
 </p>
 
-<b>Projects</b>
+<strong style="font-size: larger;">Projects</strong>
 
 <p style="text-align: justify;">
 "Energy Efficient Distributed Estimation and Control of Networked Robots and its implementation Architectures", IIT Palakkad Technology IHub Foundation, 2021 - 2026, Role: PI
