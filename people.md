@@ -22,7 +22,8 @@ Ayyappadas Rajagopal <span style="flex-grow: 1;"></span>  Jan 2020 - present
 <span style="display: flex; justify-content: space-between;">
 Swapna Challagundla <span style="flex-grow: 1;"></span>  Jan 2018 - October 2022
 </span>
-Currently DSP Engineer in Dhruva Space Private Limited, Hyderabad
+*PhD thesis title*: Design of efficient state estimators for discrete-time systems <br>
+*Current position* is at Dhruva Space Private Limited, Hyderabad
 
 ## <small>MS</small>
 <hr style="margin-top: -1em; margin-bottom: 1em;">
