@@ -35,6 +35,7 @@ plugins:
 header_pages:
   - research.md
   - pubs.md
+  - projects.md
   - teaching.md
   - people.md
   - bio.md
