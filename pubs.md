@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 permalink: "/publications"
 ---
-## journals
+## Journals
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
 [10] A. Rajagopal, *S. Chitraganti*, ``State estimation and control for networked control systems in the presence of correlated packet drops", International Journal of System Science, v54:11, p.2352-2365. 2023.
