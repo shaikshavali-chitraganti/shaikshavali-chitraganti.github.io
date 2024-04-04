@@ -41,7 +41,7 @@ permalink: "/publications"
 
 [16] A. Mullachery, *S. Chitraganti*, "Off-policy reinforcement learning for optimal control of a two wheeled self balancing robot", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 383-388, Decemer, 2023.
 
- [15] A. Rajagopal, *S. Chitraganti*, "Impact of fading channel imposed correlated packet drops on state estimation in a networked control system: An experimental study based on SDRs", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 144-149, Decemer, 2023. (\textit{Best student paper - first runner-up award})
+ [15] A. Rajagopal, *S. Chitraganti*, "Impact of fading channel imposed correlated packet drops on state estimation in a networked control system: An experimental study based on SDRs", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 144-149, Decemer, 2023. (*Best student paper - first runner-up award*)
 
  [14] A. Rajagopal, *S. Chitraganti*, "State estimation with correlated packet drops: An experimental evaluation with a mobile robot", Proc. of 9th Indian Control Conference, Visakhapatnam, pp 156-161, Decemer, 2023.
     
@@ -67,9 +67,9 @@ permalink: "/publications"
 	      
 [3] *S. Chitraganti*, S. Aberkane, C. Aubrun, "Mean square stability of non-homogeneous Markov jump linear systems using interval analysis", Proc. of 12th European Control Conference, Zurich, Switzerland, pp 3724-3729, July, 2013.
 	      
-[2] *S. Chitraganti*, S. Aberkane, C. Aubrun, "Statistical properties of exponential weighted moving average algorithm for change detection", Proc. of 51st IEEE Conference on Decision and Control, Maui, Hawaii, USA, pp 574-578, December, 2012.
+[2] *S. Chitraganti*, S. Aberkane, C. Aubrun, "Statistical properties of exponential weighted moving average algorithm for change detection", Proc. of 51st IEEE Conference on Decision and Control, Maui, Hawaii, USA, pp 574-578, December, 2012. [[link]](https://ieeexplore.ieee.org/document/6426477){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/261051825_Statistical_properties_of_exponentially_weighted_moving_average_algorithm_for_change_detection){:target="_blank"}
 	      
-[1] D. Chakraborty and *S. Chitraganti*, "An approximate solution to the norm optimal control problem", Proc. of 21st IEEE International Conference on Systems, Man, and Cybernetics, San Antonio, Texas, USA, pp 4490-4495, October, 2009.
+[1] D. Chakraborty and *S. Chitraganti*, "An approximate solution to the norm optimal control problem", Proc. of 21st IEEE International Conference on Systems, Man, and Cybernetics, San Antonio, Texas, USA, pp 4490-4495, October, 2009.  [[link]](https://ieeexplore.ieee.org/document/5346907){:target="_blank"} [[pdf]](https://www.ee.iitb.ac.in/~dc/SMC09_shaik.pdf){:target="_blank"}
 
 <!--
 [Google scholar profile](https://scholar.google.com/citations?user=jfOVNcUAAAAJ&hl=en)
