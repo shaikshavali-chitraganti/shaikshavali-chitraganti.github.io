@@ -36,8 +36,8 @@ header_pages:
   - research.md
   - pubs.md
   - teaching.md
+  - peope.md
   - bio.md
-  # - misc.md
   - contacts.md
 
 # Exclude from processing.
