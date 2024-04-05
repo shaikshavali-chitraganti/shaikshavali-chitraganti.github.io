@@ -6,7 +6,7 @@ layout: page
 ---
 
 <p align="center">
-<img src="me.jpg" alt="drawing" width="350px"/>
+<img src="me1.jpg" alt="drawing" width="350px"/>
 </p>
 
 <!--
