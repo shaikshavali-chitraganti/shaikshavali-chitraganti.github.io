@@ -41,3 +41,10 @@ Gautam Mishra <span style="flex-grow: 1;"></span>  Jan 2024 - present
 Karthick Shanmugam <span style="flex-grow: 1;"></span>  Dec 2023 - present
 </span>
 
+## <small>Interns/Project Staff</small>
+<hr style="margin-top: -1em; margin-bottom: 1em;">
+
+<span style="display: flex; justify-content: space-between;">
+Aneesh Swaminathan, Project staff: Implementation aspects of networked control systems <span style="flex-grow: 1;"></span>  Jan 2024 - present
+</span>
+
