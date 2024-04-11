@@ -5,19 +5,20 @@ permalink: "/people"
 ---
 
 <style>
-.squared-list {
+.smaller-squared-list {
   list-style-type: none;
   padding-left: 0;
 }
-.squared-list li:before {
+.smaller-squared-list li:before {
   content: "\25A0\00A0"; /* Unicode for squared bullet followed by space */
+  font-size: 0.8em; /* Adjust the font size as needed */
 }
 </style>
 
 ## <small>PhD</small>
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-<ul class="squared-list">
+<ul class="smaller-squared-list">
   <li>
     Anna Varghis (Jan 2024 - present)
   </li>
@@ -37,7 +38,7 @@ permalink: "/people"
 ## <small>MS</small>
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-<ul class="squared-list">
+<ul class="smaller-squared-list">
   <li>
     Gautam Mishra (Jan 2024 - present)
   </li>
@@ -46,7 +47,7 @@ permalink: "/people"
 ## <small>Postdoc</small>
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-<ul class="squared-list">
+<ul class="smaller-squared-list">
   <li>
     Karthick Shanmugam (Dec 2023 - present)
   </li>
@@ -55,7 +56,7 @@ permalink: "/people"
 ## <small>Interns/Project Staff</small>
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-<ul class="squared-list">
+<ul class="smaller-squared-list">
   <li>
     Aneesh Swaminathan (Jan 2024 - present), Project staff: Implementation aspects of networked control systems
   </li>
