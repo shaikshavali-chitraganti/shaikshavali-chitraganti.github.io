@@ -7,6 +7,13 @@ permalink: "/people"
 ## <small>PhD</small>
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
+Anna Varghis (Jan 2024 - present)
+
+Athira Mullachery (Jan 2022 - present) *Area*: Model free optimal control
+
+Ayyappadas Rajagopal (Jan 2020 - present) *Area*: Estimation and control over wireless networks
+
+
 <span style="display: flex; justify-content: space-between;">
 Anna Varghis <span style="flex-grow: 1;"></span>  Jan 2024 - present
 </span>
