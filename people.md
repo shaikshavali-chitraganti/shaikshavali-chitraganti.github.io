@@ -80,3 +80,9 @@ Mehar Khurana, Intern: RL control of a self balancing robot <span style="flex-gr
 Sandeep Sudhakaran, Project staff - Currently at Tata Elxsi: Stability of a networked control system <span style="flex-grow: 1;"></span>  Sep 2021 -  Feb 2022
 </span>
 
+## <small>BTech/OELP Project students</small>
+<hr style="margin-top: -1em; margin-bottom: 1em;">
+
+[List of students](https://docs.google.com/document/d/1usmLnS-HCm_b3GWKZJhDYuPnvOfhfWgXgyTJD9PadP8/export?format=pdf){: style="color: blue; text-decoration: underline;" target="_blank"}<br>
+
+
