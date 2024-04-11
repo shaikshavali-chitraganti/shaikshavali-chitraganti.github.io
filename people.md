@@ -11,7 +11,7 @@ permalink: "/people"
 }
 .smaller-squared-list li:before {
   content: "\25A0\00A0"; /* Unicode for squared bullet followed by space */
-  font-size: 0.5em; /* Adjust the font size as needed */
+  font-size: 0.65em; /* Adjust the font size as needed */
 }
 </style>
 
