@@ -10,7 +10,7 @@ permalink: "/tutorials"
 
 ## <small>Linear Quadratic Regulator (LQR) control of a self balancing robot in ROS/Gazebo</small>
 
-Code: [https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git](https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git) 
+**Code:** [https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git](https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git) 
 
-Theory of discrete-time LQR
+**Theory of discrete-time LQR:**
 
