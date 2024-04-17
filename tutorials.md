@@ -12,5 +12,4 @@ permalink: "/tutorials"
 
 **Code:** [https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git](https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git) 
 
-**Theory of discrete-time LQR:**
 
