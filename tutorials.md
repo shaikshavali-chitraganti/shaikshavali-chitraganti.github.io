@@ -10,5 +10,4 @@ permalink: "/tutorials"
 
 ## <small>LQR control of a self balancing robot in ROS/Gazebo</small>
 
-
-$$LQR$$
+https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git
