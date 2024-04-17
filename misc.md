@@ -9,11 +9,11 @@ permalink: "/misc"
 
 [6] "Inverse reinforcement learning" for Indo-Norway Workshop on Sensing, Communication and Control Systems for Industrial Automation Applications (IN-SCOCOS), IIT Palakkad, Feburary 2024
 
-[5] "Estimation and control over wireless networks" for SERB Karyashala workshop on Paramount topics in Control and Automation for Industry Applications at VNIT Nagpur, July, 2023
+[5] "Estimation and control over wireless networks" for SERB Karyashala workshop on Paramount topics in Control and Automation for Industry Applications, VNIT Nagpur, July, 2023
 
-[4] "Basics of Reinforcement learning and its application to control" for SERB Karyashala workshop on Application of Artificial Intelligence in Power System Operation and Control at NIT Calicut, July, 2022
+[4] "Basics of Reinforcement learning and its application to control" for SERB Karyashala workshop on Application of Artificial Intelligence in Power System Operation and Control, NIT Calicut, July, 2022
 
-[3] "Reinforcement learning based controls strategies" for workshop on Emerging Learning Methods and Systems (ELMS) at IIT Tirupati, July, 2022
+[3] "Reinforcement learning based controls strategies" for workshop on Emerging Learning Methods and Systems (ELMS), IIT Tirupati, July, 2022
 
 [2] "Stochastic model predictive control for LPV systems" for tutorial session on 2021 International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA), IIT Goa, September, 2021
 

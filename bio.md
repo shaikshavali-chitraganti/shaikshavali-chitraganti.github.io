@@ -5,11 +5,11 @@ permalink: "/bio"
 ---
 
 <p style="text-align: justify;">
-Shaikshavali Chitraganti is an assitant professor at the department of Electrical engineering at Indian Institute of Technology (IIT) Palakkad. His research focus is on Networked control systems and reinforcement leaning control.
+Shaikshavali Chitraganti is an assistant professor at the department of Electrical engineering at Indian Institute of Technology (IIT) Palakkad. His research focus is on Networked control systems and reinforcement leaning control.
 </p>
 
 <p style="text-align: justify;">
-Shaikshavali had received BE degree in Electronics and Instrumentation at Birla Institute of Technology and Science (BITS) Pilani, Rajasthan in 2006, Masters in Control and Computing at Indian Institute of Technology (IIT) Bombay in 2009 and PhD from University of Lorraine, France in 2014. In 2015 he was with Control System group, Electrical Engineering of EIndhoven University of Technology, Netherlands. From 2016 to 2019, he served as an Assistant Professor at Amrita University, India, and then held a position as an Assistant Professor at BITS Pilani Hyderabad Campus from 2017 to 2019. He has been affiliated with IIT Palakkad since 2019.
+Shaikshavali had received BE degree in Electronics and Instrumentation at Birla Institute of Technology and Science (BITS) Pilani, Rajasthan in 2006, Masters in Control and Computing at Indian Institute of Technology (IIT) Bombay in 2009 and PhD from University of Lorraine, France in 2014. In 2015 he was with Control System group, Electrical Engineering of Eindhoven University of Technology, Netherlands. From 2016 to 2019, he served as an Assistant Professor at Amrita University, India, and then held a position as an Assistant Professor at BITS Pilani Hyderabad Campus from 2017 to 2019. He has been affiliated with IIT Palakkad since 2019.
 </p>
 
 <!--<p align="center">

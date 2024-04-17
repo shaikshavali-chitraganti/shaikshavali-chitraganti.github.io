@@ -61,7 +61,7 @@ permalink: "/people"
     Aneesh Swaminathan (Jan 2024 - present), Project staff: Implementation aspects of networked control systems
   </li>
   <li>
-    Shaz Nazar (Jan 2024 - present), Project intern: RL algorithms for control 
+    Shaz Nazar (Jan 2024 - present), Project intern: Inverse RL 
   </li>
   <li>
     Dilli Bhaskar (June - July 2023, Jan 2024 - present), Project intern: RL algorithms for control 

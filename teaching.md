@@ -20,7 +20,7 @@ EE 5521 Optimal Control <span style="flex-grow: 1;"></span>  Aug - Dec 2020, Jan
 </span>
 
 <span style="display: flex; justify-content: space-between;">
-EE 4150 Control Systems Lab <span style="flex-grow: 1;"></span>  Aug - Dec in 2022, 2023
+EE 4150 Control Systems Lab <span style="flex-grow: 1;"></span>  Aug - Dec 2022, 2023
 </span>
 
 <span style="display: flex; justify-content: space-between;">
