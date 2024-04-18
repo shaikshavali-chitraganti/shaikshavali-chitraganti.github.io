@@ -22,7 +22,7 @@ permalink: "/tutorials"
 
 **Theory:**
 
-The objective of discrete-time infinite horizon optimal control problem for linear time invariant (LTI) system is to obtain control inputs $u_0,u_1,\cdots$ that solve the following optimization problem
+The objective of discrete-time infinite horizon optimal control problem for linear time invariant (LTI) system is to obtain control inputs \(u_0,u_1,\cdots\) that solve the following optimization problem
 $$
 \begin{align*}
 \min_{u_0,u_1,\cdots} &\sum_{j=0}^{\infty} (x_j^{\top}Qx_j+u_j^{\top}Ru_j) \\
