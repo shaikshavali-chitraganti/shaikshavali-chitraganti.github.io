@@ -60,9 +60,6 @@ So the LQR consists of two steps: first solve ARE (6) to obtain $P$ and then use
 
 **Code repository:** [https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git](https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git) 
 
-
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/JwZwCb9DGGU" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JwZwCb9DGGU" frameborder="0" allowfullscreen></iframe>
+</div>
