@@ -60,7 +60,7 @@ P =Q +A^{\top}PA-A^{\top}PB(R+B^{\top}PB)^{-1}B^{\top}PA. \tag{6}
 $$
 So the LQR consists of two steps: first solve ARE (6) to obtain $P$ and then use (5) when the algorithm is run in real time with state value $x_k$.
 
-[1] Bertsekas, D., 2012. Dynamic programming and optimal control: Volume I (Vol. 4). Athena scientific.
+[1] Bertsekas, D., 2012. Dynamic programming and optimal control: Volume I (Vol.4). Athena scientific.
 
 [2] Lewis, F.L., Vrabie, D. and Syrmos, V.L., 2012. Optimal control. John Wiley & Sons.
 
