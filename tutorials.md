@@ -14,10 +14,10 @@ permalink: "/tutorials"
 
 The objective of discrete-time infinite horizon optimal control problem for linear time invariant (LTI) system is to obtain control inputs $u_0,u_1,\cdots$ that solve the following optimization problem
 $$
-\begin{aligned}
+\begin{align*}
 \min_{u_0,u_1,\cdots} &\sum_{j=0}^{\infty} (x_j^{\top}Qx_j+u_j^{\top}Ru_j) \\
  &x_{k+1} = Ax_k+Bu_k 
-\end{aligned}
+\end{align*}
 $$
 where $Q\succeq 0$, $R\succ0$, $A$ and $B$ are matrices of appropriate dimension, and the pair $(A,B)$ is controllable. It is a regulator problem, where the aim is to bring the state to origin from an intial condition; extension to tracking problem can be made suitably. To solve, dynamic programming approach [1] is considered in the following. Consider the cost function defined as
 $$
