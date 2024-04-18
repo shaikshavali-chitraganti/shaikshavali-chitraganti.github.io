@@ -28,7 +28,7 @@ $$
  &x_{k+1} = Ax_k+Bu_k 
 \end{align*}
 $$
-where $Q\succeq 0$, $R\succ0$, $A$ and $B$ are matrices of appropriate dimension, and the pair $(A,B)$ is controllable. It is a regulator problem, where the aim is to bring the state to origin from an intial condition; extension to tracking problem can be made suitably. To solve, dynamic programming approach [1] is considered in the following. Consider the cost function defined as
+where $`Q\succeq 0`$, $R\succ0$, $A$ and $B$ are matrices of appropriate dimension, and the pair $(A,B)$ is controllable. It is a regulator problem, where the aim is to bring the state to origin from an intial condition; extension to tracking problem can be made suitably. To solve, dynamic programming approach [1] is considered in the following. Consider the cost function defined as
 $$
 \begin{align*}
 V(x_k)&\triangleq \sum_{j=k}^{\infty} (x_j^{\top}Qx_j+u_j^{\top}Ru_j)\\
