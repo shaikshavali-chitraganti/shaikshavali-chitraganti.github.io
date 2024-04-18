@@ -39,7 +39,7 @@ $$
  &x_{k+1} = Ax_k+Bu_k 
 \end{align*}
 $$
-where $`Q\succeq 0`$, $R\succ0$, $A$ and $B$ are matrices of appropriate dimension, and the pair $(A,B)$ is controllable. It is a regulator problem, where the aim is to bring the state to origin from an intial condition; extension to tracking problem can be made suitably. To solve, dynamic programming approach [1] is considered in the following. Consider the cost function defined as
+where $Q\succeq 0$, $R\succ0$, $A$ and $B$ are matrices of appropriate dimension, and the pair $(A,B)$ is controllable. It is a regulator problem, where the aim is to bring the state to origin from an intial condition; extension to tracking problem can be made suitably. To solve, dynamic programming approach [1] is considered in the following. Consider the cost function defined as
 $$
 \begin{align*}
 V(x_k)&\triangleq \sum_{j=k}^{\infty} (x_j^{\top}Qx_j+u_j^{\top}Ru_j)\\
@@ -53,7 +53,7 @@ $$
 V^*(x_k) = \min_{u_k}\left(x_k^{\top}Qx_k+u_k^{\top}Ru_k+V^*(Ax_k+Bu_k)\right) \tag{2}
 \end{align*}
 $$
-which is also called Hamilton-Jacobi equation. It can be shown that the optimal cost $V^*(x_k)$ is quadratic in $x_k$, i.e; $V^*(x_k) = x_k^{\top}Px_k$ for some $P\succ 0$ [2]. Hence (2) can be expressed as
+which is also called Hamilton-Jacobi equation. It can be shown that the optimal cost $ V^*(x_k) $ is quadratic in $x_k$, i.e; $ V^*(x_k) = x_k^{\top}Px_k $ for some $P\succ 0$ [2]. Hence (2) can be expressed as
 $$
 x_k^{\top}Px_k = \min_{u_k}\left(x_k^{\top}Qx_k+u_k^{\top}Ru_k+(Ax_k+Bu_k)^{\top}P(Ax_k+Bu_k)\right) \tag{3}
 $$
