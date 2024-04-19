@@ -78,3 +78,7 @@ So the LQR consists of two steps: first solve ARE (6) to obtain $$P$$ and then u
 <div style="text-align: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/JwZwCb9DGGU?si=sZ3zN-kWtx8qh59m" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
+## <small>Inverse reinforcement learning</small>
+
