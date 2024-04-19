@@ -22,7 +22,7 @@ $$
 \end{align*}
 $$ 
 
-where $$Q\succeq 0$$, $$R\succ0$$, $$A$$ and $$B$$ are matrices of appropriate dimension, and the pair $$(A,B)$$ is controllable. It is a regulator problem, where the aim is to bring the state to origin from an intial condition; extension to tracking problem can be made suitably. To solve, dynamic programming approach [1] is considered in the following. Consider the cost function defined as
+where $$Q\succeq 0$$, $$R\succ0$$, $$A$$ and $$B$$ are matrices of appropriate dimension, and the pair $$(A,B)$$ is controllable. It is a regulator problem, where the aim is to bring the state to origin from an initial condition; extension to tracking problem can be made suitably. To solve, dynamic programming approach [1] is considered in the following. Consider the cost function defined as
 
 $$
 \begin{align*}
@@ -58,7 +58,7 @@ $$
 u_k^*=-(R+B^{\top}PB)^{-1}B^{\top}PAx_k \tag{5} 
 $$
 
-and subtituting $$u_k^*$$ in (4) would lead to Algebraic Riccati Equation (ARE):
+and substituting $$u_k^*$$ in (4) would lead to Algebraic Riccati Equation (ARE):
 
 $$
 P =Q +A^{\top}PA-A^{\top}PB(R+B^{\top}PB)^{-1}B^{\top}PA. \tag{6} 
@@ -75,7 +75,7 @@ So the LQR consists of two steps: first solve ARE (6) to obtain $$P$$ and then u
 
 **Implementation:**
 
-A simple objective that is addressed is to make the self balancing robot (SBR) go in a straight line and reach a designated origin. Since it is linear setting, SBR is linearized around the zero pitch angle to obtain the linear dynamics, which is taken from [3], where the dimesions are selected suitably in the teeterbot [4] 3D model for ROS/Gazebo. Using this setting, the detailed implementation code is given in the repository [https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git](https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git) 
+A simple objective that is addressed is to make the self balancing robot (SBR) go in a straight line and reach a designated origin. Since it is a linear setting, SBR is linearized around the zero pitch angle to obtain the linear dynamics, which is taken from [3], where the dimensions are selected suitably in the teeterbot [4] 3D model for ROS/Gazebo. Using this setting, the detailed implementation code is given in the repository [https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git](https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git) 
 
 
 [3] Rajagopal, A. and Chitraganti, S., 2023. State estimation and control for networked control systems in the presence of correlated packet drops. International Journal of Systems Science, 54(11), pp.2352-2365.
