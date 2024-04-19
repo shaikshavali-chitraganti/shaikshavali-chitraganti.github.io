@@ -9,11 +9,11 @@ permalink: "/tutorials"
   type="text/javascript">
 </script>
 
-## <small>Linear Quadratic Regulator (LQR) control of a self balancing robot in ROS/Gazebo</small>
+## <small>Linear Quadratic Regulator control of a self balancing robot in ROS/Gazebo</small>
 
 **Theory:**
 
-The objective of discrete-time infinite horizon optimal control problem for linear time invariant (LTI) system is to obtain control inputs $$u_0,u_1,\cdots$$ that solve the following optimization problem
+The objective of discrete-time infinite horizon optimal control problem for a linear time invariant (LTI) system is to obtain control inputs $$u_0,u_1,\cdots$$ that solve the following optimization problem
 
 $$
 \begin{align*}
@@ -73,7 +73,15 @@ So the LQR consists of two steps: first solve ARE (6) to obtain $$P$$ and then u
 
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-**Code repository:** [https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git](https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git) 
+**Implementation:**
+
+A simple objective that is addressed is to make the self balancing robot (SBR) go in a straight line and reach a designated origin. Since it is linear setting, SBR is linearized around the zero pitch angle and obtained the linear dynamics, which is taken from [3], where the dimesions are selected suitably in the teeterbot [4] 3D model for ROS/Gazebo. Using this setting, the detailed implementation code is given in the repository [https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git](https://github.com/shaikshavali-chitraganti/LQR_SBR_Gazebo.git) 
+
+
+[3] Rajagopal, A. and Chitraganti, S., 2023. State estimation and control for networked control systems in the presence of correlated packet drops. International Journal of Systems Science, 54(11), pp.2352-2365.
+
+[4] https://github.com/robustify/teeterbot
+
 
 <div style="text-align: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/JwZwCb9DGGU?si=sZ3zN-kWtx8qh59m" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
