@@ -66,7 +66,6 @@ $$
 
 So the LQR consists of two steps: first solve ARE (6) to obtain $$P$$ and then use (5) when the algorithm is run in real time with state value $$x_k$$.
 
-<hr style="margin-top: -1em; margin-bottom: 1em;">
 
 **Implementation:**
 
@@ -85,3 +84,5 @@ A simple objective that is addressed is to make the self balancing robot (SBR) g
 [3] Rajagopal, A. and Chitraganti, S., 2023. State estimation and control for networked control systems in the presence of correlated packet drops. International Journal of Systems Science, 54(11), pp.2352-2365.
 
 [4] https://github.com/robustify/teeterbot
+
+<hr style="margin-top: -1em; margin-bottom: 1em;">
