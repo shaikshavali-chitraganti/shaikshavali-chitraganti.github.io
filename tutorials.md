@@ -58,7 +58,7 @@ $$
 u_k^*=-(R+B^{\top}PB)^{-1}B^{\top}PAx_k \tag{5} 
 $$
 
-and subtituting $u_k^*$ in (4) would lead to Algebraic Riccati Equation (ARE):
+and subtituting $$u_k^*$$ in (4) would lead to Algebraic Riccati Equation (ARE):
 
 $$
 P =Q +A^{\top}PA-A^{\top}PB(R+B^{\top}PB)^{-1}B^{\top}PA. \tag{6} 
@@ -79,6 +79,4 @@ So the LQR consists of two steps: first solve ARE (6) to obtain $$P$$ and then u
     <iframe width="560" height="315" src="https://www.youtube.com/embed/JwZwCb9DGGU?si=sZ3zN-kWtx8qh59m" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-## <small>Inverse reinforcement learning</small>
 
