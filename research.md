@@ -5,12 +5,12 @@ permalink: "/research"
 ---
 
 <p style="text-align: justify;">
-Our resarch in Network control systems sits at the intersection of control and communication engineering. The core of this research is how to address the various control tasks when the states and/or actions trasmitted over wireless networks, which may not be perfect. The work involved theoritical understanding of the control methods in tandem with communication aspects, experimental investigation of the same with classical control setups such as rotory servo, dual rotor aero etc, and communication setups such as Software defined radios (SDRs), Long range (LoRa) modules. The simulation platforms that we use are MATLAB, LabView and Python for this work.
+Our research in Network control systems sits at the intersection of control and communication engineering. The core of this research is how to address the various control tasks when the states and/or actions transmitted over wireless networks, which may not be perfect. The work involved theoretical understanding of the control methods in tandem with communication aspects, experimental investigation of the same with classical control setups such as rotory servo, dual rotor aero etc, and communication setups such as Software defined radios (SDRs), Long range (LoRa) modules. The simulation platforms that we use are MATLAB, LabView and Python for this work.
 </p>
 
 
 <p style="text-align: justify;">
-The other research is at the intersection of optimal control and reinforcement learning, which have a lot of similar formulations. The main focuse of this research is to address the objectives of various optimal control formulations when the dynamic model is not perfectly available. The work includes theoretical investigations along with experimental validations. The simulation platforms used are MATLAB and Python.
+The other research is at the intersection of optimal control and reinforcement learning, which have a lot of similar formulations. The main focus of this research is to address the objectives of various optimal control formulations when the dynamic model is not perfectly available. The work includes theoretical investigations along with experimental validations. The simulation platforms used are MATLAB and Python.
 </p>
 
 <div style="padding-bottom: 40px;"></div>
