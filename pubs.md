@@ -10,16 +10,16 @@ permalink: "/publications"
 
 
 [9] S. Challagundla, *S. Chitraganti*, P. Wali, "An efficient event-based state estimator for linear discrete-time system with multiplicative measurement noise", IEEE Control System Letters, v5:4, p.1315-1320, 2021.
-[[link]](https://ieeexplore.ieee.org/document/9244213){:target="_blank"}
+[[link]](https://ieeexplore.ieee.org/document/9244213) [[pdf]](https://www.researchgate.net/publication/346415407_An_Efficient_Event-Based_State_Estimator_for_Linear_Discrete-Time_System_With_Multiplicative_Measurement_Noise){:target="_blank"}
 
 [8] S. Challagundla, *S. Chitraganti*, P. Wali, "Event-based state estimation with multiplicative measurement noise and correlated additive noises", IEEE Control System Letters, v4:3, p.554-559, 2020.
-[[link]](https://ieeexplore.ieee.org/document/8999618){:target="_blank"}
+[[link]](https://ieeexplore.ieee.org/document/8999618) [[pdf]](https://www.researchgate.net/publication/339279275_Event-Based_State_Estimation_With_Multiplicative_Measurement_Noise_and_Correlated_Additive_Noises){:target="_blank"}
  
 [7] *S. Chitraganti*, S. Aberkane, "Event based estimation with correlated noises", Journal of the Franklin Institute, Elsevier, v356:13, p.7533-7547, 2019.  
 [[link]](https://www.sciencedirect.com/science/article/pii/S001600321930465X?via%3Dihub){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/334228224_Event_based_estimation_with_correlated_noises){:target="_blank"}
 
 [6] S. Challagundla, *S. Chitraganti*, S. Aberkane, "Event based state estimation under the presence of multiplicative measurement noise", IEEE Control System Letters, v3:3, p.625-630, 2019. 
-[[link]](https://ieeexplore.ieee.org/document/8709719){:target="_blank"}
+[[link]](https://ieeexplore.ieee.org/document/8709719) [[pdf]](https://www.researchgate.net/publication/332958008_Event-Based_State_Estimation_Under_the_Presence_of_Multiplicative_Measurement_Noise){:target="_blank"}
 
 [5] *S. Chitraganti*, S. Aberkane, "Stochastic H-infinity control of state dependent jump linear systems with state dependent noise", IET Control Theory & Applications, v13:9, p.1291-1297, 2019. 
 [[pdf]](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-cta.2018.5638){:target="_blank"}
