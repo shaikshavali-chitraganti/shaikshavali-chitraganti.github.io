@@ -74,4 +74,4 @@ permalink: "/publications"
 ## Patents
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-[16] A. Rajagopal, *S. Chitraganti*, "Transceiver system for networked control system", Patent Number 540840 granted on 05th June, 2024. 
+[1] A. Rajagopal, *S. Chitraganti*, "Transceiver system for networked control system", Patent Number 540840 granted on 05th June, 2024. 
