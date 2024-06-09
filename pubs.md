@@ -71,3 +71,7 @@ permalink: "/publications"
 	      
 [1] D. Chakraborty and *S. Chitraganti*, "An approximate solution to the norm optimal control problem", Proc. of 21st IEEE International Conference on Systems, Man, and Cybernetics, San Antonio, Texas, USA, pp 4490-4495, October, 2009.  [[link]](https://ieeexplore.ieee.org/document/5346907){:target="_blank"} [[pdf]](https://www.ee.iitb.ac.in/~dc/SMC09_shaik.pdf){:target="_blank"}
 
+## Patents
+<hr style="margin-top: -1em; margin-bottom: 1em;">
+
+[16] A. Rajagopal, *S. Chitraganti*, "Transceiver system for networked control system", Patent Number 540840 granted on 05th June, 2024. 
