@@ -70,7 +70,7 @@ permalink: "/people"
     Dilli Bhaskar (June - July 2023, Jan 2024 - present), Project intern: RL algorithms for control 
   </li>
   <li>
-    Sudhina Dinesh (December 2023 - present), Project intern: Control of dynamical systems over unreliable communication channels 
+    Sudhina Dinesh (December 2023 - June 2024), Project intern: Control of dynamical systems over unreliable communication channels 
   </li>
   <li>
     Nandagopan (June 2023 - present), Project staff: 3D Simulations of RL algorithms 
