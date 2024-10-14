@@ -39,7 +39,7 @@ permalink: "/publications"
 ## Conferences
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-[18] A. Rajagopal, *S. Chitraganti*, "         A Real-Time Hardware-in-the-loop Framework Using Software-Defined Radios for Emulating Re-configurable Networked Control Systems", accepted to 10th Indian Control Conference (ICC) in experimental abstracts category, Bhopal, December, 2024.
+[19] A. Rajagopal, *S. Chitraganti*, "         A Real-Time Hardware-in-the-loop Framework Using Software-Defined Radios for Emulating Re-configurable Networked Control Systems", accepted to 10th Indian Control Conference (ICC) in experimental abstracts category, Bhopal, December, 2024.
 
 [18] A. Rajagopal, *S. Chitraganti*, "Emulating Networked Control System with Hardware-in-the-Loop and Software Defined Radios Amidst Channel Uncertainties", accepted to 18th IEEE International Conference on Control, Automation, Robotics and Vision (ICARCV), 2024.
 
