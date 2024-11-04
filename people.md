@@ -66,11 +66,11 @@ permalink: "/people"
   <li>
     Aneesh Swaminathan (Jan 2024 - present), Project staff: Implementation aspects of networked control systems
   </li>
-  <li>
-    Dilli Bhaskar (June - July 2023, Jan 2024 - present), Project intern: RL algorithms for control 
-  </li>
-    <li>
+      <li>
     Nandagopan (June 2023 - present), Project staff: 3D Simulations of RL algorithms 
+  </li>
+  <li>
+    Dilli Bhaskar (June - July 2023, Jan 2024 - July 2024), Project intern: RL algorithms for control 
   </li>
   <li>
     Sudhina Dinesh (December 2023 - June 2024), Project intern: Control of dynamical systems over unreliable communication channels 
