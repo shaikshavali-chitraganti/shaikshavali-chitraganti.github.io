@@ -52,7 +52,7 @@ permalink: "/people"
 
 <ul class="smaller-squared-list">
   <li>
-    Karthick Shanmugam (Dec 2023 - present)
+    Karthick Shanmugam (Dec 2023 - Nov 2024)
   </li>
 </ul>
 
