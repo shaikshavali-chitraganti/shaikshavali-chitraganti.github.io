@@ -20,9 +20,6 @@ permalink: "/people"
 
 <ul class="smaller-squared-list">
   <li>
-    Sudhina Dinesh (July 2024 - present)
-  </li>
-  <li>
     Anna Varghis (Jan 2024 - present)
   </li>
   <li>
@@ -61,13 +58,14 @@ permalink: "/people"
 
 <ul class="smaller-squared-list">
   <li>
-    Sailakshmi (June 2024 - present), Project trainee: Security aspects in networked control systems 
-  </li>
-  <li>
     Aneesh Swaminathan (Jan 2024 - present), Project staff: Implementation aspects of networked control systems
   </li>
       <li>
     Nandagopan (June 2023 - present), Project staff: 3D Simulations of RL algorithms 
+  </li>
+
+  <li>
+    Sailakshmi (June 2024 - December 2024), Project trainee: Security aspects in networked control systems 
   </li>
   <li>
     Dilli Bhaskar (June - July 2023, Jan 2024 - July 2024), Project intern: RL algorithms for control 
