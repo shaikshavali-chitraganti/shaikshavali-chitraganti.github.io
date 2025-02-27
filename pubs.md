@@ -5,7 +5,7 @@ permalink: "/publications"
 ---
 ## Journals
 <hr style="margin-top: -1em; margin-bottom: 1em;">
-[11] A. Rajagopal, *S. Chitraganti*, "A real-time hardware-in-the-loop system incorporating software defined radios for emulating multi-sensor networked control systems", IEEE Transactions on Circuits and Systems II: Express Briefs, v72:2, p.409-413, 2025.
+[11] A. Rajagopal, *S. Chitraganti*, "A real-time hardware-in-the-loop system incorporating software defined radios for emulating multi-sensor networked control systems", IEEE Transactions on Circuits and Systems II: Express Briefs, v72:2, p.409-413, 2025. [[link]](https://ieeexplore.ieee.org/document/10811993){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/387357474_A_Real-Time_Hardware-in-the-Loop_System_Incorporating_Software_Defined_Radios_for_Emulating_Multi-Sensor_Networked_Control_Systems){:target="_blank"}
 
 [10] A. Rajagopal, *S. Chitraganti*, "State estimation and control for networked control systems in the presence of correlated packet drops", International Journal of System Science, v54:11, p.2352-2365. 2023. [[link]](https://www.tandfonline.com/doi/full/10.1080/00207721.2023.2230225){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/372145498_State_estimation_and_control_for_networked_control_systems_in_the_presence_of_correlated_packet_drops){:target="_blank"}
 
