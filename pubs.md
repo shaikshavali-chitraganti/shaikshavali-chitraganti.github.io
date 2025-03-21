@@ -46,7 +46,7 @@ permalink: "/publications"
 [18] A. Rajagopal, *S. Chitraganti*, "Emulating networked control system with hardware-in-the-loop and software defined radios amidst channel uncertainties", accepted to 18th IEEE International Conference on Control, Automation, Robotics and Vision (ICARCV), Dubai, December, 2024.
 
 [17] A. Mullachery, *S. Chitraganti*, "Off-policy reinforcement learning for a robust optimal control problem with real parametric uncertainty
-", accepted to 63rd IEEE Conference on Decision and Control (CDC), Milan, Italy, December, 2024.
+", Proc. of 56th IEEE Conference on Decision and Control (CDC), Milan, Italy, pp. 2499-2504, December, 2024. [[link]](https://ieeexplore.ieee.org/document/10886480){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/389382803_Off-policy_Reinforcement_Learning_for_a_Robust_Optimal_Control_Problem_with_Real_Parametric_Uncertainty){:target="_blank"}
 
 [16] A. Mullachery, *S. Chitraganti*, "Off-policy reinforcement learning for optimal control of a two wheeled self balancing robot", Proc. of 9th Indian Control Conference (ICC), Visakhapatnam, pp 383-388, December, 2023. [[link]](https://ieeexplore.ieee.org/document/10441833){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/378541699_Off-Policy_Reinforcement_Learning_for_Optimal_Control_of_a_Two_Wheeled_Self_Balancing_Robot){:target="_blank"}
 
