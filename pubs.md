@@ -39,11 +39,11 @@ permalink: "/publications"
 
 ## Conferences
 <hr style="margin-top: -1em; margin-bottom: 1em;">
-[20] A. Rajagopal, *S. Chitraganti*, "Enhancing state estimator performance in networked control cystems with sequential packet drops via adaptive power control and error correction coding: an experimental evaluation", accepted to 11th SICE International Symposium on Control Systems (ISCS), Osaka, Japan, March, 2025.
+[20] A. Rajagopal, *S. Chitraganti*, "Enhancing state estimator performance in networked control cystems with sequential packet drops via adaptive power control and error correction coding: an experimental evaluation", Proc. of 11th SICE International Symposium on Control Systems (ISCS), Osaka, Japan, pp. 105-112, March, 2025.  [[link]](https://ieeexplore.ieee.org/document/10947707){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/390647333_Enhancing_State_Estimator_Performance_in_Networked_Control_Systems_with_Sequential_Packet_Drops_via_Adaptive_Power_Control_and_Error_Correction_Coding_An_Experimental_Evaluation){:target="_blank"}
 
 [19] A. Rajagopal, *S. Chitraganti*, "A real-time hardware-in-the-loop framework using software-defined radios for emulating re-configurable networked control systems", accepted to 10th Indian Control Conference (ICC) in experimental abstracts category, Bhopal, December, 2024.
 
-[18] A. Rajagopal, *S. Chitraganti*, "Emulating networked control system with hardware-in-the-loop and software defined radios amidst channel uncertainties", accepted to 18th IEEE International Conference on Control, Automation, Robotics and Vision (ICARCV), Dubai, December, 2024.
+[18] A. Rajagopal, *S. Chitraganti*, "Emulating networked control system with hardware-in-the-loop and software defined radios amidst channel uncertainties", Proc. of 18th IEEE International Conference on Control, Automation, Robotics and Vision (ICARCV), Dubai, pp. 666-671, December, 2024. [[link]](https://ieeexplore.ieee.org/document/10821661){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/387885357_Emulating_Networked_Control_System_with_Hardware-in-the-Loop_and_Software_Defined_Radios_Amidst_Channel_Uncertainties){:target="_blank"}
 
 [17] A. Mullachery, *S. Chitraganti*, "Off-policy reinforcement learning for a robust optimal control problem with real parametric uncertainty
 ", Proc. of 56th IEEE Conference on Decision and Control (CDC), Milan, Italy, pp. 2499-2504, December, 2024. [[link]](https://ieeexplore.ieee.org/document/10886480){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/389382803_Off-policy_Reinforcement_Learning_for_a_Robust_Optimal_Control_Problem_with_Real_Parametric_Uncertainty){:target="_blank"}
