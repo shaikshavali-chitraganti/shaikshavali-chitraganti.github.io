@@ -26,7 +26,8 @@ permalink: "/people"
     Athira Mullachery (Jan 2022 - present) <i>Area</i>: Model free optimal control
   </li>
   <li>
-    Ayyappadas Rajagopal (Jan 2020 - present) <i>Area</i>: Estimation and control over wireless networks
+    <a href="https://www.ayyappadasrajagopal.com/" target="_blank">Ayyappadas Rajagopal</a>  (Jan 2020 - July 2025)
+        <i>PhD thesis title</i>: State estimation and control of networked control systems in the presence of channel uncertainties <br>
   </li>
   <li>
     <a href="https://scholar.google.co.in/citations?user=aKWg_xIAAAAJ&hl=en" target="_blank">Swapna Challagundla</a> (Jan 2018 - October 2022)<br>
