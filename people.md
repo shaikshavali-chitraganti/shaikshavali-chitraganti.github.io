@@ -29,7 +29,7 @@ permalink: "/people"
     Ayyappadas Rajagopal (Jan 2020 - present) <i>Area</i>: Estimation and control over wireless networks
   </li>
   <li>
-    <a href="https://scholar.google.co.in/citations?user=aKWg_xIAAAAJ&hl=en" target="_blank">Swapna Challagundla</a> Swapna Challagundla (Jan 2018 - October 2022)<br>
+    <a href="https://scholar.google.co.in/citations?user=aKWg_xIAAAAJ&hl=en" target="_blank">Swapna Challagundla</a> (Jan 2018 - October 2022)<br>
     <i>PhD thesis title</i>: Design of efficient state estimators for discrete-time systems <br>
     <i>Current position</i> is at Dhruva Space Private Limited, Hyderabad
   </li>
