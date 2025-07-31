@@ -36,6 +36,10 @@ permalink: "/people"
   </li>
 </ul>
 
+<p style="margin-top: 1em;">
+  <strong>Vacancies:</strong> There are two full-time PhD positions available to work in the areas of distributed control over wireless networks and learning-based controllers. Interested candidates with an MTech in Control, Communication, Electrical, Electronics, or related areas can write to me for more details.
+</p>
+
 ## <small>MS</small>
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
