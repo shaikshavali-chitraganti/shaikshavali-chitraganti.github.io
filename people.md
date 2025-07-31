@@ -26,7 +26,7 @@ permalink: "/people"
     Athira Mullachery (Jan 2022 - present) <i>Area</i>: Model free optimal control
   </li>
   <li>
-    <a href="https://www.ayyappadasrajagopal.com/" target="_blank">Ayyappadas Rajagopal</a>  (Jan 2020 - July 2025)
+    <a href="https://www.ayyappadasrajagopal.com/" target="_blank">Ayyappadas Rajagopal</a>  (Jan 2020 - July 2025) <br>
         <i>PhD thesis title</i>: State estimation and control of networked control systems in the presence of channel uncertainties <br>
   </li>
   <li>
