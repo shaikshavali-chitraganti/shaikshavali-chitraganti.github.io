@@ -6,6 +6,7 @@ permalink: "/misc"
 
 **Invited Talks**
 <hr style="margin-top: -1em; margin-bottom: 1em;">
+[7] "Reinforcement learning for control applications" for FDP on Applications of Artificial Intelligence in Electrical Engineering, Presidency University, Bangalore, July, 2025
 
 [6] "Inverse reinforcement learning" for Indo-Norway Workshop on Sensing, Communication and Control Systems for Industrial Automation Applications (IN-SCOCOS), IIT Palakkad, Feburary 2024
 
@@ -21,10 +22,11 @@ permalink: "/misc"
 
 **Workshop or Conference activity**
 <hr style="margin-top: -1em; margin-bottom: 1em;">
+[4] Co-coordinator of AICTE-QIP-PG certificate program on "Robotics", IIT Palakkad, July - December 2025
 
 [3] Coordinator of an Indo-Norway Workshop on "Sensing, Communication and Control Systems for Industrial Automation Applications (IN-SCOCOS)" at IIT Palakkad, February 2024
 
-[2] Chair of session on "Networked control" at the 9th Indian Control Conference, December 2023.
+[2] Chair of session on "Networked control" at the 9th Indian Control Conference, December 2023
 
 [1] Co-chair of session on "Optimal control" at the 9th Indian Control Conference, December 2023
 
