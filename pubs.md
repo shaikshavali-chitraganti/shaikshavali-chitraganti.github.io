@@ -60,7 +60,7 @@ permalink: "/publications"
 	     
 [12] *S. Chitraganti*, M. A. Sid, S. Aberkane, "Event Triggered Fault Detection in Linear Systems Using Generalized Likelihood Ratio Test", in 6th IFAC International Conference on Advances in Control and Optimization of Dynamical Systems (ACODS), Hyderabad, India, February, 2018. (IFAC-PapersOnLine v51:1, 2018, p.444-449)  [[link]](https://www.sciencedirect.com/science/article/pii/S2405896318302374){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/325829184_Event_triggered_fault_detection_in_linear_systems_using_Generalized_likelihood_ratio_test){:target="_blank"}
 	      
-[11] *S. Chitraganti*, M. Darwish, "Nonlinear event-based state estimation using sequential Monte Carlo approach", Proc. of 56th IEEE Conference on Decision and Control (CDC), Melbourne, Australia, pp 2170-2175, December, 2017. [[pdf]](https://www.researchgate.net/publication/322666850_Nonlinear_event-based_state_estimation_using_sequential_Monte_Carlo_approach){:target="_blank"}
+[11] *S. Chitraganti*, M. Darwish, "Nonlinear event-based state estimation using sequential Monte Carlo approach", Proc. of 56th IEEE Conference on Decision and Control (CDC), Melbourne, Australia, pp 2170-2175, December, 2017. [[link]](https://ieeexplore.ieee.org/document/8263966){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/322666850_Nonlinear_event-based_state_estimation_using_sequential_Monte_Carlo_approach){:target="_blank"}
 	      
 [10] *S. Chitraganti*, R. Toth, N. Meskin, J. Mohammadpour, "Stochastic model predictive control for LPV systems", Proc. of 33rd Americal Control Conference (ACC), Washington, USA, pp 5654-5659, May, 2017. [[link]](https://ieeexplore.ieee.org/abstract/document/7963835){:target="_blank"}
 	     
