@@ -5,6 +5,9 @@ permalink: "/publications"
 ---
 ## Journals
 <hr style="margin-top: -1em; margin-bottom: 1em;">
+
+<div style="text-align: justify;">
+
 [12] A. Rajagopal, *S. Chitraganti*, "Distributed state estimation and optimal control for networked systems with correlated data dropouts over slow-fading channels: an experimental evaluation", accepted to International Journal of Systems Science, 2025. 
 
 [11] A. Rajagopal, *S. Chitraganti*, "A real-time hardware-in-the-loop system incorporating software defined radios for emulating multi-sensor networked control systems", IEEE Transactions on Circuits and Systems II: Express Briefs, v72:2, p.409-413, 2025. [[link]](https://ieeexplore.ieee.org/document/10811993){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/387357474_A_Real-Time_Hardware-in-the-Loop_System_Incorporating_Software_Defined_Radios_for_Emulating_Multi-Sensor_Networked_Control_Systems){:target="_blank"}
@@ -39,8 +42,13 @@ permalink: "/publications"
 [1] *S. Chitraganti*, S. Aberkane, C. Aubrun, G. Valencia-Palomo, V. Dragan, "On control of discrete-time state-dependent jump linear systems with probabilistic constraints: a receding horizon approach", Systems & Control Letters, Elsevier, v74, p.81-89, 2014.
 [[link]](https://www.sciencedirect.com/science/article/pii/S0167691114002308){:target="_blank"} [[pdf]](https://arxiv.org/abs/1406.7629){:target="_blank"}
 
+</div>
+
 ## Conferences
 <hr style="margin-top: -1em; margin-bottom: 1em;">
+
+<div style="text-align: justify;">
+
 [20] A. Rajagopal, *S. Chitraganti*, "Enhancing state estimator performance in networked control cystems with sequential packet drops via adaptive power control and error correction coding: an experimental evaluation", Proc. of 11th SICE International Symposium on Control Systems (ISCS), Osaka, Japan, pp. 105-112, March, 2025.  [[link]](https://ieeexplore.ieee.org/document/10947707){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/390647333_Enhancing_State_Estimator_Performance_in_Networked_Control_Systems_with_Sequential_Packet_Drops_via_Adaptive_Power_Control_and_Error_Correction_Coding_An_Experimental_Evaluation){:target="_blank"}
 
 [19] A. Rajagopal, *S. Chitraganti*, "A real-time hardware-in-the-loop framework using software-defined radios for emulating re-configurable networked control systems", accepted to 10th Indian Control Conference (ICC) in experimental abstracts category, Bhopal, December, 2024.
@@ -82,7 +90,13 @@ permalink: "/publications"
 	      
 [1] D. Chakraborty and *S. Chitraganti*, "An approximate solution to the norm optimal control problem", Proc. of 21st IEEE International Conference on Systems, Man, and Cybernetics (SMC), San Antonio, Texas, USA, pp 4490-4495, October, 2009.  [[link]](https://ieeexplore.ieee.org/document/5346907){:target="_blank"} [[pdf]](https://www.ee.iitb.ac.in/~dc/SMC09_shaik.pdf){:target="_blank"}
 
+</div>
+
 ## Patents
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
+<div style="text-align: justify;">
+
 [1] A. Rajagopal, *S. Chitraganti*, "Transceiver system for networked control system", Patent Number 540840 granted on 05th June, 2024. 
+
+</div>
