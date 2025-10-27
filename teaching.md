@@ -23,10 +23,6 @@ EE 4150 Control Systems Lab <span style="flex-grow: 1;"></span>  Aug - Dec 2022,
 
 
 <span style="display: flex; justify-content: space-between;">
-EE 4150 Control Systems Lab <span style="flex-grow: 1;"></span>  Aug - Dec 2022, 2023, 2024
-</span>
-
-<span style="display: flex; justify-content: space-between;">
 EE 3060 Control Engineering <span style="flex-grow: 1;"></span>  Jan - May 2020, 2021, 2022, 2023, 2024
 </span>
 
