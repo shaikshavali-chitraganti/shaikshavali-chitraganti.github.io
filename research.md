@@ -15,7 +15,7 @@ Our second direction explores the intersection of optimal control and reinforcem
 </p>
 
 <p style="text-align: justify;">
-We also work on autonomous navigation, focusing on perception, localization, and control for robotic systems. Our lab is equipped with LiDAR, depth cameras, a motion capture studio, high-end IMUs, and GPS modules for real-world experimentation.</p>
+We also work on autonomous navigation, focusing on perception, localization, and control for robotic systems. Our lab is equipped with LiDAR, depth cameras, a motion capture studio, high-end IMUs, and GPS modules for real-world experimentation.
 </p>
 
 <div style="padding-bottom: 40px;"></div>
