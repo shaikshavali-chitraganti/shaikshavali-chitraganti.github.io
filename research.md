@@ -5,12 +5,17 @@ permalink: "/research"
 ---
 
 <p style="text-align: justify;">
-Our research in Network control systems sits at the intersection of control and communication engineering. The core of this research is how to address the various control tasks when the states and/or actions transmitted over wireless networks, which may not be perfect. The work involved theoretical understanding of the control methods in tandem with communication aspects, experimental investigation of the same with classical control setups such as rotory servo, dual rotor aero etc, and communication setups such as Software defined radios (SDRs), Long range (LoRa) modules. The simulation platforms that we use are MATLAB, LabView and Python for this work.
+Our research in Network Control Systems lies at the intersection of control and communication engineering, focusing on control under imperfect wireless networks. We combine theoretical analysis with experimental validation using setups like rotary servo and dual-rotor systems, along with SDRs and LoRa modules. Simulations are carried out in MATLAB, LabVIEW, and Python.
 </p>
 
 
+
 <p style="text-align: justify;">
-The other research is at the intersection of optimal control and reinforcement learning, which have a lot of similar formulations. The main focus of this research is to address the objectives of various optimal control formulations when the dynamic model is not perfectly available. The work includes theoretical investigations along with experimental validations. The simulation platforms used are MATLAB and Python.
+Our second direction explores the intersection of optimal control and reinforcement learning, addressing control problems when system models are uncertain. This includes both theoretical development and experimental validation using MATLAB and Python.
+</p>
+
+<p style="text-align: justify;">
+We also work on autonomous navigation, focusing on perception, localization, and control for robotic systems. Our lab is equipped with LiDAR, depth cameras, a motion capture studio, high-end IMUs, and GPS modules for real-world experimentation.</p>
 </p>
 
 <div style="padding-bottom: 40px;"></div>

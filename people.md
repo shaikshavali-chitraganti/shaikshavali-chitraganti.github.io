@@ -28,6 +28,7 @@ permalink: "/people"
   <li>
     <a href="https://www.ayyappadasrajagopal.com/" target="_blank">Ayyappadas Rajagopal</a>  (Jan 2020 - July 2025) <br>
         <i>PhD thesis title</i>: State estimation and control of networked control systems in the presence of channel uncertainties <br>
+        <i>Current position</i> is at Mapsted, Canada
   </li>
   <li>
     <a href="https://scholar.google.co.in/citations?user=aKWg_xIAAAAJ&hl=en" target="_blank">Swapna Challagundla</a> (Jan 2018 - October 2022)<br>
@@ -54,7 +55,7 @@ permalink: "/people"
 
 <ul class="smaller-squared-list">
   <li>
-    Karthick Shanmugam (Dec 2023 - Nov 2024)
+    Karthick Shanmugam (Dec 2023 - Nov 2024)--> currently at DRDO
   </li>
 </ul>
 
@@ -63,23 +64,26 @@ permalink: "/people"
 
 <ul class="smaller-squared-list">
   <li>
-    Aneesh Swaminathan (Jan 2024 - present), Project staff: Implementation aspects of networked control systems
-  </li>
-      <li>
     Nandagopan (June 2023 - present), Project staff: 3D Simulations of RL algorithms 
+  </li>
+   <li>
+    Sarvesh K (March 2026 - present), Intern: Autonomous navigation 
+  </li>
+  <li>
+    Aneesh Swaminathan (Jan 2024 - Feb 2026), Project staff: Implementation aspects of networked control systems
   </li>
 
   <li>
-    Sailakshmi (June 2024 - December 2024), Project trainee: Security aspects in networked control systems 
+    Sailakshmi (June 2024 - December 2024), Project staff: Security aspects in networked control systems --> currently Ph. D. student at Michigan State University 
   </li>
   <li>
-    Dilli Bhaskar (June - July 2023, Jan 2024 - July 2024), Project intern: RL algorithms for control 
+    Dilli Bhaskar (June - July 2023, Jan 2024 - July 2024), Intern: RL algorithms for control --> currently M.S. student at University of British Columbia
   </li>
   <li>
-    Sudhina Dinesh (December 2023 - June 2024), Project intern: Control of dynamical systems over unreliable communication channels 
+    Sudhina Dinesh (December 2023 - June 2024), Intern: Control of dynamical systems over unreliable communication channels --> currently at dSPACE, India
   </li>
     <li>
-    Shaz Nazar (Jan 2024 - May 2024), Project intern: Inverse RL 
+    Shaz Nazar (Jan 2024 - May 2024), Intern: Inverse RL 
   </li>
   <li>
     Avanthik Vikas (July 2023 - Oct 2023), Project staff: Estimation and control of dynamical systems 
@@ -91,7 +95,7 @@ permalink: "/people"
     Mehar Khurana (Dec 2022), Intern: RL control of a self balancing robot 
   </li>
   <li>
-    Sandeep Sudhakaran (Sep 2021 -  Feb 2022), Project staff - Currently at Tata Elxsi: Stability of a networked control system 
+    Sandeep Sudhakaran (Sep 2021 -  Feb 2022), Project staff: Stability of a networked control system --> Currently at Tata Elxsi
   </li>
 </ul>
 

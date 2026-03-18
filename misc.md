@@ -6,6 +6,8 @@ permalink: "/misc"
 
 **Invited Talks**
 <hr style="margin-top: -1em; margin-bottom: 1em;">
+[8] "Towards Autonomous Robots: Perception, Decision, and Control" for invited talk at Fifth National Conference on Computational Intelligence and Data Analytics (CIDA 2026), University of Calicut, March, 2026
+
 [7] "Reinforcement learning for control applications" for FDP on Applications of Artificial Intelligence in Electrical Engineering, Presidency University, Bangalore, July, 2025
 
 [6] "Inverse reinforcement learning" for Indo-Norway Workshop on Sensing, Communication and Control Systems for Industrial Automation Applications (IN-SCOCOS), IIT Palakkad, Feburary 2024
