@@ -25,7 +25,7 @@ We also work on autonomous navigation, focusing on perception, localization, and
 
 
 <p style="text-align: justify;">
-IIT Palakkad Exploratory Research Grant (ERG) with MSME Exodyne Pvt Ltd  2025 - 2027, Role: PI
+IIT Palakkad Exploratory Research Grant (ERG) with MSME Exodyne Pvt Ltd,  2025 - 2027, Role: PI
 </p>
 
 <p style="text-align: justify;">
