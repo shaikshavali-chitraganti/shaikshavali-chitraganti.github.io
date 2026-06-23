@@ -42,11 +42,11 @@ permalink: "/publications"
 ## Conferences
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-[26] G. Mishra, *S. Chitraganti*, "Gaussian Process Assisted Model Predictive Control for Landing of an Unmanned Aerial Vehicle on a Moving Platform" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
+[27] G. Mishra, *S. Chitraganti*, "Gaussian Process Assisted Model Predictive Control for Landing of an Unmanned Aerial Vehicle on a Moving Platform" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
 
-[25] A. Varghis, *S. Chitraganti*, "An Event-Driven LSTM and EKF framework for LQR Controlled Trajectory Prediction during Sensor Outages" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
+[26] A. Varghis, *S. Chitraganti*, "An Event-Driven LSTM and EKF framework for LQR Controlled Trajectory Prediction during Sensor Outages" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
 
-[24] A. Mullachery, *S. Chitraganti*, "Distributed Adaptive Neural Network Sliding Mode Control for Synchronized Trajectory Tracking of Multi-agent 2-DOF Helicopter Systems" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
+[25] A. Mullachery, *S. Chitraganti*, "Distributed Adaptive Neural Network Sliding Mode Control for Synchronized Trajectory Tracking of Multi-agent 2-DOF Helicopter Systems" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
 
 [24] A. Mullachery, *S. Chitraganti*, "Maximum Entropy Robust Optimal Control Problem of Continuous-Time Dynamical Systems with Real Parametric Uncertainty" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
 
