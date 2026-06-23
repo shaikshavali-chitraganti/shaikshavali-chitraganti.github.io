@@ -42,11 +42,19 @@ permalink: "/publications"
 ## Conferences
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-[23] P. V. Sailakshmi, A. Rajagopal, *S. Chitraganti*, "Adaptive weight update strategy using RBF to find optimal non-linear attack on remote state estimation", accepted to 11th Indian Control Conference (ICC), Bangalore, 2025.
+[26] G. Mishra, *S. Chitraganti*, "Gaussian Process Assisted Model Predictive Control for Landing of an Unmanned Aerial Vehicle on a Moving Platform" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
 
-[22] D. Bhaskar, A. Rajagopal, N. Kalathil, *S. Chitraganti*, "Value-based reinforcement learning for mapless navigation of a mobile robot", accepted to 11th Indian Control Conference (ICC), Bangalore, 2025.
+[25] A. Varghis, *S. Chitraganti*, "An Event-Driven LSTM and EKF framework for LQR Controlled Trajectory Prediction during Sensor Outages" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
 
-[21] D. Bhaskar, A. Mullachery, *S. Chitraganti*, "Soft normalized advantage functions for reinforcement learning in optimal control problems", accepted to 11th Indian Control Conference (ICC), Bangalore, 2025.
+[24] A. Mullachery, *S. Chitraganti*, "Distributed Adaptive Neural Network Sliding Mode Control for Synchronized Trajectory Tracking of Multi-agent 2-DOF Helicopter Systems" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
+
+[24] A. Mullachery, *S. Chitraganti*, "Maximum Entropy Robust Optimal Control Problem of Continuous-Time Dynamical Systems with Real Parametric Uncertainty" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
+
+[23] P. V. Sailakshmi, A. Rajagopal, *S. Chitraganti*, "Adaptive weight update strategy using RBF to find optimal non-linear attack on remote state estimation", Proc. of 11th Indian Control Conference (ICC), Bengaluru, pp 532-537, December, 2025. 
+
+[22] D. Bhaskar, A. Rajagopal, N. Kalathil, *S. Chitraganti*, "Value-based reinforcement learning for mapless navigation of a mobile robot", Proc. of 11th Indian Control Conference (ICC), Bengaluru, pp 1-6, December, 2025. 
+
+[21] D. Bhaskar, A. Mullachery, *S. Chitraganti*, "Soft normalized advantage functions for reinforcement learning in optimal control problems", Proc. of 11th Indian Control Conference (ICC), Bengaluru, pp 174-179, December, 2025. 
 
 [20] A. Rajagopal, *S. Chitraganti*, "Enhancing state estimator performance in networked control cystems with sequential packet drops via adaptive power control and error correction coding: an experimental evaluation", Proc. of 11th SICE International Symposium on Control Systems (ISCS), Osaka, Japan, pp. 105-112, March, 2025.  [[link]](https://ieeexplore.ieee.org/document/10947707){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/390647333_Enhancing_State_Estimator_Performance_in_Networked_Control_Systems_with_Sequential_Packet_Drops_via_Adaptive_Power_Control_and_Error_Correction_Coding_An_Experimental_Evaluation){:target="_blank"}
 
