@@ -42,13 +42,13 @@ permalink: "/publications"
 ## Conferences
 <hr style="margin-top: -1em; margin-bottom: 1em;">
 
-[27] G. Mishra, *S. Chitraganti*, "Gaussian Process Assisted Model Predictive Control for Landing of an Unmanned Aerial Vehicle on a Moving Platform" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
+[27] G. Mishra, *S. Chitraganti*, "Gaussian process assisted model predictive control for landing of an unmanned aerial vehicle on a moving platform" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
 
-[26] A. Varghis, *S. Chitraganti*, "An Event-Driven LSTM and EKF framework for LQR Controlled Trajectory Prediction during Sensor Outages" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
+[26] A. Varghis, *S. Chitraganti*, "An event-driven LSTM and EKF framework for LQR controlled trajectory prediction during sensor outages" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
 
-[25] A. Mullachery, *S. Chitraganti*, "Distributed Adaptive Neural Network Sliding Mode Control for Synchronized Trajectory Tracking of Multi-agent 2-DOF Helicopter Systems" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
+[25] A. Mullachery, *S. Chitraganti*, "Distributed adaptive neural network sliding mode control for synchronized trajectory tracking of multi-agent 2-DOF helicopter systems" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
 
-[24] A. Mullachery, *S. Chitraganti*, "Maximum Entropy Robust Optimal Control Problem of Continuous-Time Dynamical Systems with Real Parametric Uncertainty" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
+[24] A. Mullachery, *S. Chitraganti*, "Maximum entropy robust optimal control problem of continuous-time dynamical systems with real parametric uncertainty" accepted to 15th Asian Control Conference (ASCC), Bali, Indonesia, 2026.
 
 [23] P. V. Sailakshmi, A. Rajagopal, *S. Chitraganti*, "Adaptive weight update strategy using RBF to find optimal non-linear attack on remote state estimation", Proc. of 11th Indian Control Conference (ICC), Bengaluru, pp 532-537, December, 2025. 
 
