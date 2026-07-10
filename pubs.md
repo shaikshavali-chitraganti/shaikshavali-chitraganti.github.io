@@ -52,9 +52,9 @@ permalink: "/publications"
 
 [23] P. V. Sailakshmi, A. Rajagopal, *S. Chitraganti*, "Adaptive weight update strategy using RBF to find optimal non-linear attack on remote state estimation", Proc. of 11th Indian Control Conference (ICC), Bengaluru, pp 532-537, December, 2025. 
 
-[22] D. Bhaskar, A. Rajagopal, N. Kalathil, *S. Chitraganti*, "Value-based reinforcement learning for mapless navigation of a mobile robot", Proc. of 11th Indian Control Conference (ICC), Bengaluru, pp 1-6, December, 2025. 
+[22] D. Bhaskar, A. Rajagopal, N. Kalathil, *S. Chitraganti*, "Value-based reinforcement learning for mapless navigation of a mobile robot", Proc. of 11th Indian Control Conference (ICC), Bengaluru, pp 1-6, December, 2025.  [[link]](https://ieeexplore.ieee.org/document/11372347){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/400693809_Value-Based_Reinforcement_Learning_for_Mapless_Navigation_of_a_Mobile_Robot){:target="_blank"}
 
-[21] D. Bhaskar, A. Mullachery, *S. Chitraganti*, "Soft normalized advantage functions for reinforcement learning in optimal control problems", Proc. of 11th Indian Control Conference (ICC), Bengaluru, pp 174-179, December, 2025. 
+[21] D. Bhaskar, A. Mullachery, *S. Chitraganti*, "Soft normalized advantage functions for reinforcement learning in optimal control problems", Proc. of 11th Indian Control Conference (ICC), Bengaluru, pp 174-179, December, 2025.  [[link]](https://ieeexplore.ieee.org/document/11372283){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/400701377_Soft_Normalized_Advantage_Functions_for_Reinforcement_Learning_in_Optimal_Control_Problems){:target="_blank"}
 
 [20] A. Rajagopal, *S. Chitraganti*, "Enhancing state estimator performance in networked control cystems with sequential packet drops via adaptive power control and error correction coding: an experimental evaluation", Proc. of 11th SICE International Symposium on Control Systems (ISCS), Osaka, Japan, pp. 105-112, March, 2025.  [[link]](https://ieeexplore.ieee.org/document/10947707){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/390647333_Enhancing_State_Estimator_Performance_in_Networked_Control_Systems_with_Sequential_Packet_Drops_via_Adaptive_Power_Control_and_Error_Correction_Coding_An_Experimental_Evaluation){:target="_blank"}
 
