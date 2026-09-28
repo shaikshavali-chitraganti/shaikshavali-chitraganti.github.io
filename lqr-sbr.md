@@ -1,4 +1,3 @@
-markdown
 ---
 layout: page
 title: "LQR control of a self balancing robot in ROS/Gazebo"
