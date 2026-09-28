@@ -4,12 +4,12 @@ title: "Tutorials"
 permalink: "/tutorials"
 ---
 
-## <small>Optimal control</small>
+### <small>Optimal control</small>
 
 - [Linear Quadratic Regulator control of a self balancing robot in ROS/Gazebo](/tutorials/lqr-sbr)  
   Solve the discrete-time ARE and apply LQR to a linearised self balancing robot in ROS/Gazebo.
 
-## <small>EE5531: Reinforcement learning based control (interactive demos)</small>
+### <small>EE5531: Reinforcement learning based control (interactive demos)</small>
 
 - [Q-learning on a five-tile corridor](https://shaikshavali-chitraganti.github.io/EE5531/qlearning.html)  
   Step through choose, move, reward and update, and watch the Q-table fill in.
