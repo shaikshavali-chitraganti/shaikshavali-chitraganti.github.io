@@ -4,7 +4,7 @@ title: "Tutorials"
 permalink: "/tutorials"
 ---
 
-### <small>Optimal control</small>
+### <small>EE5521: Optimal control</small>
 
 - [Linear Quadratic Regulator control of a self balancing robot in ROS/Gazebo](/tutorials/lqr-sbr)  
   Solve the discrete-time ARE and apply LQR to a linearised self balancing robot in ROS/Gazebo.
