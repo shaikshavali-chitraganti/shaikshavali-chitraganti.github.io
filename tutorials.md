@@ -19,5 +19,7 @@ permalink: "/tutorials"
   See transitions stored in a replay buffer and learned from in random mini-batches.
 - [DQN v1.0: experience replay and fixed targets](https://shaikshavali-chitraganti.github.io/EE5531/dqn-target.html)  
   Add a frozen target network, copied from the evaluation network every k steps.
-
+- [DDPG: how the pieces fit together](https://shaikshavali-chitraganti.github.io/EE5531/ddpg.html)  
+  Actor, critic, target copies, OU exploration noise and soft updates, one time step at a time.
+  
 <hr style="margin-top: -1em; margin-bottom: 1em;">
