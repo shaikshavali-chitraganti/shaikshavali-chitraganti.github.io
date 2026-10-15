@@ -5,7 +5,7 @@ permalink: "/bio"
 ---
 
 <p style="text-align: justify;">
-Shaikshavali Chitraganti is an associate professor at the department of Electrical engineering at Indian Institute of Technology (IIT) Palakkad. His research focus is on Networked control systems and reinforcement leaning control.
+Shaikshavali Chitraganti is an associate professor at the department of Electrical engineering at Indian Institute of Technology (IIT) Palakkad. His research focus is on Networked control systems, autonomous navigation and reinforcement leaning control.
 </p>
 
 <p style="text-align: justify;">
