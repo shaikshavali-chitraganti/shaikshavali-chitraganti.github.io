@@ -21,9 +21,8 @@ permalink: "/tutorials"
   Add a frozen target network, copied from the evaluation network every k steps.
 - [DDPG: how the pieces fit together](https://shaikshavali-chitraganti.github.io/EE5531/ddpg.html)  
   Actor, critic, target copies, OU exploration noise and soft updates, one time step at a time.
- ### EE5531: DDPG training demos
-- [Pendulum swing-up](/assets/videos/ee5531/ddpg/Pendulum_training.mp4)
-- [Inverted pendulum (MuJoCo)](/assets/videos/ee5531/ddpg/InvertedPendulum_training.mp4)
-- [Reacher (MuJoCo)](/assets/videos/ee5531/ddpg/Reacher_training.mp4)
- 
+- EE5531: DDPG training demos
+  - [Pendulum swing-up](/assets/videos/ee5531/ddpg/Pendulum_training.mp4)
+  - [Inverted pendulum (MuJoCo)](/assets/videos/ee5531/ddpg/InvertedPendulum_training.mp4)
+  - [Reacher (MuJoCo)](/assets/videos/ee5531/ddpg/Reacher_training.mp4) 
 <hr style="margin-top: -1em; margin-bottom: 1em;">
