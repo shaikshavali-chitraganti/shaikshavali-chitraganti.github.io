@@ -5,7 +5,7 @@ permalink: "/publications"
 ---
 ## Journals
 <hr style="margin-top: -1em; margin-bottom: 1em;">
-[13] A. Mullachery, *S. Chitraganti*, "Model-free off-policy $Q(\lambda)$ learning for  $\mathcal{H}_{\infty}$ control of a discrete-time linear  systems", Dynamic Games and Applications, accepted.
+[13] A. Mullachery, *S. Chitraganti*, "Model-free off-policy Q-lambda learning for H infinity control of a discrete-time linear systems", Dynamic Games and Applications, accepted.
 
 [12] A. Rajagopal, *S. Chitraganti*, "Distributed state estimation and optimal control for networked systems with correlated data dropouts over slow-fading channels: an experimental evaluation", International Journal of Systems Science, p.1-20, 2025. [[link]](htthttps://doi.org/10.1080/00207721.2025.2547686){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/396191364_Distributed_state_estimation_and_optimal_control_for_networked_systems_with_correlated_data_dropouts_over_slow-fading_channels_an_experimental_evaluation){:target="_blank"}
 
