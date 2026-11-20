@@ -5,6 +5,8 @@ permalink: "/publications"
 ---
 ## Journals
 <hr style="margin-top: -1em; margin-bottom: 1em;">
+[13] A. Mullachery, *S. Chitraganti*, "Model-free off-policy $Q(\lambda)$ learning for  $\mathcal{H}_{\infty}$ control of a discrete-time linear  systems", Dynamic Games and Applications, accepted.
+
 [12] A. Rajagopal, *S. Chitraganti*, "Distributed state estimation and optimal control for networked systems with correlated data dropouts over slow-fading channels: an experimental evaluation", International Journal of Systems Science, p.1-20, 2025. [[link]](htthttps://doi.org/10.1080/00207721.2025.2547686){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/396191364_Distributed_state_estimation_and_optimal_control_for_networked_systems_with_correlated_data_dropouts_over_slow-fading_channels_an_experimental_evaluation){:target="_blank"}
 
 [11] A. Rajagopal, *S. Chitraganti*, "A real-time hardware-in-the-loop system incorporating software defined radios for emulating multi-sensor networked control systems", IEEE Transactions on Circuits and Systems II: Express Briefs, v72:2, p.409-413, 2025. [[link]](https://ieeexplore.ieee.org/document/10811993){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/387357474_A_Real-Time_Hardware-in-the-Loop_System_Incorporating_Software_Defined_Radios_for_Emulating_Multi-Sensor_Networked_Control_Systems){:target="_blank"}
@@ -18,7 +20,7 @@ permalink: "/publications"
 [8] S. Challagundla, *S. Chitraganti*, P. Wali, "Event-based state estimation with multiplicative measurement noise and correlated additive noises", IEEE Control System Letters, v4:3, p.554-559, 2020.
 [[link]](https://ieeexplore.ieee.org/document/8999618) [[pdf]](https://www.researchgate.net/publication/339279275_Event-Based_State_Estimation_With_Multiplicative_Measurement_Noise_and_Correlated_Additive_Noises){:target="_blank"}
  
-[7] *S. Chitraganti*, S. Aberkane, "Event based estimation with correlated noises", Journal of the Franklin Institute, Elsevier, v356:13, p.7533-7547, 2019.  
+[7] *S. Chitraganti*, S. Aberkane, "Event based estimation with correlated noises", Journal of the Franklin Institute, v356:13, p.7533-7547, 2019.  
 [[link]](https://www.sciencedirect.com/science/article/pii/S001600321930465X?via%3Dihub){:target="_blank"} [[pdf]](https://www.researchgate.net/publication/334228224_Event_based_estimation_with_correlated_noises){:target="_blank"}
 
 [6] S. Challagundla, *S. Chitraganti*, S. Aberkane, "Event based state estimation under the presence of multiplicative measurement noise", IEEE Control System Letters, v3:3, p.625-630, 2019. 
@@ -30,13 +32,13 @@ permalink: "/publications"
 [4] *S. Chitraganti*, R. Toth, N. Meskin, J. Mohammadpour, "Stochastic model predictive tracking of piecewise constant references for LPV systems", IET Control Theory & Applications, v11, p.1862-1872, 2017. 
 [[pdf]](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-cta.2016.0629){:target="_blank"}
 
-[3] M. A. Sid, *S. Chitraganti*, K. Chabir, "Medium access scheduling for input reconstruction under deception attacks", Journal of the Franklin Institute, Elsevier, v354:9, p.3678-3689, 2017.
+[3] M. A. Sid, *S. Chitraganti*, K. Chabir, "Medium access scheduling for input reconstruction under deception attacks", Journal of the Franklin Institute, v354:9, p.3678-3689, 2017.
 [[link]](https://www.sciencedirect.com/science/article/pii/S0016003216303076?via%3Dihub){:target="_blank"}
 
-[2] *S. Chitraganti*, S. Aberkane, C. Aubrun, "Robust stabilization of a class of state-dependent jump linear systems", Nonlinear Analysis: Hybrid Systems, Elsevier, v18, p.48-59, 2015.
+[2] *S. Chitraganti*, S. Aberkane, C. Aubrun, "Robust stabilization of a class of state-dependent jump linear systems", Nonlinear Analysis: Hybrid Systems, v18, p.48-59, 2015.
 [[pdf]](https://www.researchgate.net/publication/278742110_Robust_stabilization_of_a_class_of_state-dependent_jump_linear_systems){:target="_blank"}
 
-[1] *S. Chitraganti*, S. Aberkane, C. Aubrun, G. Valencia-Palomo, V. Dragan, "On control of discrete-time state-dependent jump linear systems with probabilistic constraints: a receding horizon approach", Systems & Control Letters, Elsevier, v74, p.81-89, 2014.
+[1] *S. Chitraganti*, S. Aberkane, C. Aubrun, G. Valencia-Palomo, V. Dragan, "On control of discrete-time state-dependent jump linear systems with probabilistic constraints: a receding horizon approach", Systems & Control Letters, v74, p.81-89, 2014.
 [[link]](https://www.sciencedirect.com/science/article/pii/S0167691114002308){:target="_blank"} [[pdf]](https://arxiv.org/abs/1406.7629){:target="_blank"}
 
 ## Conferences
